@@ -1,6 +1,0 @@
-<SubInfo nameServerPort="10000" nameServer="gsns" edgeFe="GS.efe4" name="GS.SubB">
-	<varInfo>
-		<var id="-1" type="0" minInterval="66" maxInterval="66" security="0" priority="3" name="SubB.VarA2" redundancy="1" latency="80" pubName="PubA"/>
-		<var id="-1" type="0" minInterval="33" maxInterval="33" security="0" priority="3" name="SubB.VarB1" redundancy="2" latency="100" pubName="PubB"/>
-			<varInfo>
-</SubInfo>
