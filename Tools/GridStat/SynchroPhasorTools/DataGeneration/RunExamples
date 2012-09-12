@@ -1,0 +1,13 @@
+#!/bin/sh
+
+ghc -iSource Examples/ConfigFrame.hs
+ghc -iSource Examples/DataFrame.hs
+
+echo "Compilation complete running ....\n"
+
+cd Examples
+./ConfigFrame
+./DataFrame
+
+echo "Done! \n"
+

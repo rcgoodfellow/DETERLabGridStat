@@ -1,0 +1,6 @@
+<PubInfo nameServerPort="10000" nameServer="gsns" edgeFe="GS.efe1" name="GS.PubA">
+	<varInfo>
+		<var id="-1" type="0" minInterval="16" maxInterval="16" security="0" priority="3" name="PubA.VarA1"/>
+		<var id="-1" type="0" minInterval="33" maxInterval="33" security="0" priority="3" name="PubA.VarA2"/>
+			<varInfo>
+</PubInfo>

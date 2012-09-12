@@ -1,0 +1,44 @@
+Broker {	
+
+	Name = GS;
+	NameServer { Port = 10000; Name = gsns; }
+	
+	DataPlane {
+		
+		ForwardingEngines = [ efe1, efe2, efe3, efe4, fe1 ];
+		
+		Links = [(efe1, efe2), (efe1, fe1), (efe1, efe3),
+				 (efe4, efe2), (efe4, fe1), (efe4, efe3),
+				 (efe2, fe1), (efe3, fe1)];
+	}
+	
+	Publisher {	
+		Name = PubA; 
+		Edge = efe1;
+		PubVar { Name = VarA1; Rate = 60; }
+		PubVar { Name = VarA2; Rate = 30; }
+	}
+	
+	Publisher {
+		Name = PubB;
+		Edge = efe2;
+		PubVar { Name = VarB1; Rate = 30; }
+		PubVar { Name = VarB2; Rate = 15; }
+	}
+	
+	Subscriber {
+		Name = SubA;
+		Edge = efe3;
+		SubVar { PubName = PubA; Name = VarA1; Rate = 30; Redundancy = 2; Latency = 120; }
+		SubVar { PubName = PubB; Name = VarB2; Rate = 15;  Redundancy = 1; Latency = 80; }
+	}
+	
+	Subscriber {
+		Name = SubB;
+		Edge = efe4;
+		SubVar { PubName = PubA; Name = VarA2; Rate = 15; Redundancy = 1; Latency = 80; }
+		SubVar { PubName = PubB; Name = VarB1; Rate = 30; Redundancy = 2; Latency = 100; }
+	
+	}
+
+}

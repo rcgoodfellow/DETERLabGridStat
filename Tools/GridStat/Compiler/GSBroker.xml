@@ -1,0 +1,35 @@
+<QoSBroker name="GS">
+	<VertexTable>
+		<Vertex msgPerSec="5000" type="0" name="GS.efe1" port="10000"/>
+		<Vertex msgPerSec="5000" type="0" name="GS.efe2" port="10001"/>
+		<Vertex msgPerSec="5000" type="0" name="GS.efe3" port="10002"/>
+		<Vertex msgPerSec="5000" type="0" name="GS.efe4" port="10003"/>
+		<Vertex msgPerSec="5000" type="0" name="GS.fe1" port="10004"/>
+			</VertexTable>
+	<EdgeTable>
+		<Edge latency="0" bandwidth="0" type="0" srcName="GS.efe1" dstName="GS.efe2" srcPort="10006" dstPort="10007" srcAddr="efe1-efe1-efe2" dstAddr="efe2-efe1-efe2"/> 
+		<Edge latency="0" bandwidth="0" type="0" srcName="GS.efe2" dstName="GS.efe1" srcPort="10007" dstPort="10006" srcAddr="efe2-efe1-efe2" dstAddr="efe1-efe1-efe2"/> 
+		
+		<Edge latency="0" bandwidth="0" type="0" srcName="GS.efe1" dstName="GS.fe1" srcPort="10008" dstPort="10009" srcAddr="efe1-efe1-fe1" dstAddr="fe1-efe1-fe1"/> 
+		<Edge latency="0" bandwidth="0" type="0" srcName="GS.fe1" dstName="GS.efe1" srcPort="10009" dstPort="10008" srcAddr="fe1-efe1-fe1" dstAddr="efe1-efe1-fe1"/> 
+		
+		<Edge latency="0" bandwidth="0" type="0" srcName="GS.efe1" dstName="GS.efe3" srcPort="10010" dstPort="10011" srcAddr="efe1-efe1-efe3" dstAddr="efe3-efe1-efe3"/> 
+		<Edge latency="0" bandwidth="0" type="0" srcName="GS.efe3" dstName="GS.efe1" srcPort="10011" dstPort="10010" srcAddr="efe3-efe1-efe3" dstAddr="efe1-efe1-efe3"/> 
+		
+		<Edge latency="0" bandwidth="0" type="0" srcName="GS.efe4" dstName="GS.efe2" srcPort="10012" dstPort="10013" srcAddr="efe4-efe4-efe2" dstAddr="efe2-efe4-efe2"/> 
+		<Edge latency="0" bandwidth="0" type="0" srcName="GS.efe2" dstName="GS.efe4" srcPort="10013" dstPort="10012" srcAddr="efe2-efe4-efe2" dstAddr="efe4-efe4-efe2"/> 
+		
+		<Edge latency="0" bandwidth="0" type="0" srcName="GS.efe4" dstName="GS.fe1" srcPort="10014" dstPort="10015" srcAddr="efe4-efe4-fe1" dstAddr="fe1-efe4-fe1"/> 
+		<Edge latency="0" bandwidth="0" type="0" srcName="GS.fe1" dstName="GS.efe4" srcPort="10015" dstPort="10014" srcAddr="fe1-efe4-fe1" dstAddr="efe4-efe4-fe1"/> 
+		
+		<Edge latency="0" bandwidth="0" type="0" srcName="GS.efe4" dstName="GS.efe3" srcPort="10016" dstPort="10017" srcAddr="efe4-efe4-efe3" dstAddr="efe3-efe4-efe3"/> 
+		<Edge latency="0" bandwidth="0" type="0" srcName="GS.efe3" dstName="GS.efe4" srcPort="10017" dstPort="10016" srcAddr="efe3-efe4-efe3" dstAddr="efe4-efe4-efe3"/> 
+		
+		<Edge latency="0" bandwidth="0" type="0" srcName="GS.efe2" dstName="GS.fe1" srcPort="10018" dstPort="10019" srcAddr="efe2-efe2-fe1" dstAddr="fe1-efe2-fe1"/> 
+		<Edge latency="0" bandwidth="0" type="0" srcName="GS.fe1" dstName="GS.efe2" srcPort="10019" dstPort="10018" srcAddr="fe1-efe2-fe1" dstAddr="efe2-efe2-fe1"/> 
+		
+		<Edge latency="0" bandwidth="0" type="0" srcName="GS.efe3" dstName="GS.fe1" srcPort="10020" dstPort="10021" srcAddr="efe3-efe3-fe1" dstAddr="fe1-efe3-fe1"/> 
+		<Edge latency="0" bandwidth="0" type="0" srcName="GS.fe1" dstName="GS.efe3" srcPort="10021" dstPort="10020" srcAddr="fe1-efe3-fe1" dstAddr="efe3-efe3-fe1"/> 
+		
+			</EdgeTable>
+</QoSBroker>
