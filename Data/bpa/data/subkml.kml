@@ -1,0 +1,2610 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://www.opengis.net/kml/2.2"> 
+  <Document> 
+<Placemark> 
+  <name>Aberdeen</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.851808780490956,46.980304207950233</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Acton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.945343561453427,45.635430325186427</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Adair</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.217572119978797,44.703636727290743</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Addy</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.849984384204319,48.358059430530211</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Albany</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.127191215160593,44.621482669910229</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Albeni Falls</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.997713949856788,48.180745745681939</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Alcoa</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.727460523149958,45.651902259576531</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Alfalfa</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.218452469802287,46.30112762641587</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Allston</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.032442926307709,46.10747282730641</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Alvey</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.015455538075202,43.99796744377965</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Angus</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.171640164936022,46.211114153188099</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Ashe</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.335977265199261,46.479541916729787</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Mountain Avenue</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.699464884449384,42.200736860523371</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Asotin</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.938175549489429,46.303379880494113</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Badger Canyon</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.257160388003598,46.207583948858456</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Bakeoven</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.902316064065687,45.161715207044949</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Bakeoven</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.902316064065687,45.161715207044949</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Bandon</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-124.396770786831695,43.106645693024596</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Bangor</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.693554463419289,47.711127666525947</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Bell</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.374652452661579,47.750859438311721</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Bellingham</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.422828593660867,48.797482082221819</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Benton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.273083865633026,46.458018099116579</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Big Eddy</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.115989642029788,45.606691216834662</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Big Eddy 500 kV</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.10788362430668,45.603573316981617</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Bigelow</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.260878559529388,47.732022969797484</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Bingen</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.469366949938959,45.722989198319404</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Blackrock</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.872457387850318,46.512793508773854</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Blue River</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.320390361805821,44.152702415808406</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Boardman</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.64830752635001,45.845204000993043</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Bonners Ferry</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.302710837915882,48.674109586779636</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Boundary</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.358046774726873,48.981163337830836</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Box Canyon</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.415286354705472,48.779672978715446</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Brewster</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.7878949286508,48.104229760175521</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Bridge</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.356726764941072,42.129854224676237</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Brinken's Corner</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.920386006595436,46.993208409835603</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Buckley</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.90057107887165,45.231052021972367</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Burbank</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.986416149301348,46.226559648669166</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Burley</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.783614196581809,42.548069325763358</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Cabinet Gorge</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.06239180473699,48.072146097102632</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Captain Jack</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.390261317196561,42.079814861992354</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Carborundum</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.698806004074513,45.637268658162753</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Cardwell</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.844566327472663,46.045674695245069</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Carlton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.152852099850236,45.280888421708788</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Carson</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.804133328481157,45.720270286312456</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Cascade Locks</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.853012614166289,45.677988977422537</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Cathlamet</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.371192243138353,46.195702212283173</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Centralia</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.948634064087926,46.729457568584671</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Centralia</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.839619765455637,46.727241665168016</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Challis</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.207798814827598,44.481075731163557</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Chambers</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.31333923116874,46.721816159948304</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Chehalis</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.947013272696879,46.599124872270359</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Chelatchie</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.390370106031767,45.924995083168128</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Chemawa</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.999428578532786,45.014445274247528</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Chenoweth</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.204060154722811,45.635466861744298</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Chief Joseph</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.651596855071531,47.986251064708341</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Clatsop</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.840537237223273,46.14236383917023</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Columbia</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.077408505541754,47.294058046391491</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Condon</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.258767896817659,45.231262743478368</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Conkelley</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.133331815884688,48.390944251739882</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Connell</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.867275936280492,46.648226764436039</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Cottage Grove</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.056511264633414,43.746726441182432</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Covington</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.121252133134377,47.34758784867477</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Cowlitz</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.370401860371672,47.182524288949878</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Creston</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.505780079775732,47.770998975057431</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Curlew</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-112.944327589751296,41.966030242380569</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Cusick</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.372931966622076,48.328697378536695</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Custer</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.625423230282493,48.904528730838408</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Dalreed</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.998735953754789,45.763715374593431</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Detroit</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.253753349951779,44.724756678028292</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Dixonville</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.22468986720628,43.218333967395289</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>DOE 451B</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.364778737921554,46.436726811242053</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>DOE B3-S4</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.280652130777156,46.372601953574986</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Douglas</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.289669328812451,47.530417640716628</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Drain</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.31474313718968,43.658048479455289</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Dworshak</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.36718895376903,46.528443215079648</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Eagle Lake</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.190677546322831,46.683003279094606</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>East Hills</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.627681971777889,42.481240192532887</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Eastmont</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.26295861258302,47.420774544670678</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>East Omak</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.500923915556058,48.429537681850682</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Ellisford</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.428866580598111,48.828946209871219</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Fairmount</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.885071059161533,47.975455239763107</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Fairview</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-124.075124119090546,43.213317074764724</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>DOE 451A</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.361884810812725,46.436159055022351</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Fidalgo</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.690275763059063,48.50059684434202</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Fircrest</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.51615347393971,47.218678685131849</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Fishers Road</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.500973276325922,45.62177417684736</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Flathead</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.312552439545556,48.245005904587678</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Forest Grove</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.088567595664998,45.524638009349395</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Fossil</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.203462727840986,44.994965607622191</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Franklin</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.041414374924031,46.231138431368279</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Freewater</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.400799627409768,45.955302269172627</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Friday Harbor</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.013816790900904,48.532429966441391</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Gardiner</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-124.113334597601082,43.741677700236465</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Garrison</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-112.888016867006002,46.516119101638374</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Gilmer</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.513309825187633,45.868701038849572</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Gold Beach</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-124.416560641102663,42.409626754090638</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Goldendale</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.839379463925582,45.815414574657403</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Goodnoe</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.556642950402733,45.785903871549394</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Grand Coulee 500 kV</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.020373958647937,47.9663603784701</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Grand Coulee Third</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.996999182580296,47.954531470040465</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Grand Ronde</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.608668177775314,45.062651000466388</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Green Bluff</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.237882976378799,47.833956643303033</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Green Peter</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.549322013476285,44.449558097586284</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Grizzly</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.020652484175642,44.48220777855888</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Willard Johnson</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.53476154481632,45.623946494755316</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hampton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.39456607879886,43.758339992524448</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hanford</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.5711375897165,46.669452054763383</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hanford No.2 Construction</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.331808710580319,46.472464973396583</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hangman</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.393677737644765,47.549330732272153</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hanna</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.421611847171164,42.938891116008541</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Harney</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.123859994588614,43.509678920229909</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Harrisburg</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.168396478131982,44.302308530397973</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Haskill</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.643153795644523,48.11085404169004</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hat Rock</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.111970432422851,45.919851077430359</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hatwai</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.911351263365532,46.469169501672489</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hedges</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.039117425263669,46.176366498281233</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Heyburn</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.749174371643988,42.561330155443535</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hills Creek</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.424183121032129,43.710477367566355</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Horse Heaven</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.634609737141588,45.933982565052446</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hot Springs</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.628371122461346,47.5777010406023</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hungry Horse</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.019888590240399,48.342284885013228</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Intalco</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.705812631645927,48.845572604250599</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>John Day</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.737835370129247,45.677840262590173</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Joso</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.826851968123449,46.138315858847292</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Kalispell</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.216380639675734,48.216883854712854</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Keeler</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.897563575916777,45.550194947796413</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Keller</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.679190395875906,48.069105224713439</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Kennewick</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.118975665598171,46.197798082046006</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Kitsap</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.703469901810564,47.531739754845944</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Klamath Falls</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.784000376451573,42.199090029169568</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Lane</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.232269998972257,44.050753956654617</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Langlois</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-124.451967724679349,42.911699972958694</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Larson</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.276097583307646,47.190922648261555</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Lebanon</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.865397057097908,44.504390877510048</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Lexington</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.913172628121671,46.181859257921651</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Lion Mountain</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.252288688493181,48.101995571935824</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Tarlett</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-124.026086319853817,46.37117497243959</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Longview</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.993874460764474,46.139336491416103</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Lookout Point</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.757681204409906,43.915516572006652</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Lost Creek</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.677238443499817,42.671664893550727</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Lower Granite</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.420147548917555,46.651761924287626</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Lower Monumental</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.544543123161944,46.55043920600589</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Lynch Creek</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.286145902177893,46.876495325128424</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Mackay</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.607399584935337,43.919541443014374</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Madison</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-111.139169337647544,44.672108158133597</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Malin</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.317387190047242,42.006721832548621</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Macks Inn</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-111.312824645105181,44.492251613599258</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Mapleton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.86318972774238,44.022505032875614</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Maple Valley</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.186180833214578,47.469744162852272</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Marion</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.697513204816332,44.79942249504284</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Mcloughlin</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.558451309863401,45.338472798317326</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>McMinnville</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.180620706899091,45.212263725800874</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>McNary</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.313612667265204,45.924189787394873</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Mesa</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.067736002483386,46.586355904465975</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Midway</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.782546037631221,46.620533917081033</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Mill Plain</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.624041036055033,45.629240144903207</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Milton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.382451693671655,45.92154270245215</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Minico</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.751656718176321,42.604471963703105</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Monroe</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.889457501899486,47.897231441517924</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Moxee</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.388141862471215,46.592392678071597</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Naselle</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.805528657359972,46.37621504356553</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>North Bonneville</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.960593881119038,45.64812693968878</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>North Ephrata</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.533104632029378,47.325581212660445</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Necanicum</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.86635148541923,45.900720237703339</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Newport</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.036987630986772,48.181825019106014</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Norway</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-124.161861842151325,43.107894662996316</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Noxon Switchyard</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-115.738140786788563,47.959421625694254</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Odessa</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.688150340347576,47.338363524277376</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Okanogan</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.570622678780424,48.365157339725599</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Omak</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.514873053583344,48.432166168289562</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Ophir</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.716788018474375,48.192826197740644</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Oregon City</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.779581192656423,45.332880413286908</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Orondo</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.207819417817305,47.653108484340969</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Oroville</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.44128179471204,48.935624375145998</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Ostrander</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.407012177255382,45.360211235115237</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Outlook</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.078344516513681,46.375326384236764</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Ovando</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.099090092768961,46.931735916043145</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Palisades</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-111.203211176730562,43.335423709948749</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Parkdale</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.56474767337339,45.529052217195492</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Paul</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.875519907365216,46.754301034851558</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Pelican Horn</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.278931169820126,47.113312397234459</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Pendleton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.757004401527837,45.677397324025733</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Pilot Butte</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.233183774753684,44.057191053805639</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Pine Hollow</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.128131859255916,45.445785370939525</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Port Angeles</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.418175005784121,48.101052642331815</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Port Orford</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-124.465947270850918,42.769079034063147</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Potholes</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.529620519741997,47.10508543803077</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Prairie</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.895051523267867,47.730039486688874</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Priest Rapids</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.909461170588926,46.644422853044084</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Prosser</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.766596383900719,46.211467762396893</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Quilcene</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.867894807502609,47.828922929791162</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Quincy</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.874298896292999,47.23370382666662</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Raft</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.222767782412774,42.590235055613348</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Ralston</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.314590131010945,46.912971582933899</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Rathdrum</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.867725112601278,47.803661172090905</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Raver</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.933836370353987,47.336054458127158</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Raymond</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.739785932629218,46.712025875555923</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Reata</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.3137588880724,46.201041648225278</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Redmond</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.211020767678193,44.270278613188339</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Reedsport</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-124.124705805322677,43.695664194008465</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Republic</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.685001864403546,48.649980443449195</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Reston</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.564966179959214,43.177586420770041</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Richland</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.289585216460921,46.26196838939547</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Riparia</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.083094688205748,46.614225844252076</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Rivergate</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.767600874880088,45.614239349330077</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Rocky Reach</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.29068261387097,47.529740694514672</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Rogue</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-124.407058169718994,42.483780628294838</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Ross</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.659341447895798,45.661477111687631</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Roundup</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.746290133660523,45.638203134567725</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Sacajawea</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.88664467904475,46.239821421503819</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Sacheen</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.277244707327327,48.175902727555936</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Sagehill</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.299801160666036,46.656013542376535</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Salem</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.089018050540929,44.931741141684753</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Sand Dunes</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.278119174071861,47.073086614293111</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Sandpoint</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.625137258968223,48.252596394696468</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Santiam</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.674752919737529,44.772538330851326</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Sappho</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-124.269524778582408,48.071922539006472</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Scarcello</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.830264356279969,47.868433687011581</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Schrag</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.809429126703677,47.115092727029953</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Schultz</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.510217278635807,47.121383428865613</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Scooteney</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.005427333670454,46.663557316605129</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Selle</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.533950255754462,48.356514035963599</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Shelton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.124159250974344,47.228517520737512</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Sickler</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.280380514152696,47.536847547106213</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Sifton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.500149265287106,45.653541533268964</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Silver Creek</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.592353187409913,46.522898879899451</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Slatt</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.154256388763571,45.702624844697745</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Snipes</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.661313759916126,46.30292764582056</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Snohomish</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.103872136984691,47.923791977580599</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Sno-king</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.186703283254474,47.813003649850536</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Soap Lake</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.469660416096374,47.383068184957033</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>South Renton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.208461986714497,47.471083003053629</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>South</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.330632056970146,47.568280661101227</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Spearfish</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.136019777278747,45.623424514755229</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Springfield</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.000953782135227,44.043881619887735</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Stevens Drive</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.285443356378735,46.295396418826137</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Stevenson</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.894418480015588,45.707912985695202</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Stillwater</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.566502185002165,48.545874449078696</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>St. Johns</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.764820064774312,45.613915546970318</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Sun Harbor</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.84728845426379,46.2446525980926</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Swan Valley</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-111.368524150199491,43.455659473987843</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Tacoma</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.36908022321127,47.256703916167972</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Taft</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-115.589223972861035,47.456373354032543</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Tahkenitch</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-124.083463594167256,43.742812164763443</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Talbot</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.191491804000108,47.468017044493685</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Targhee</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-111.116320932152618,43.722509962286587</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Tarkio</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.735402703332696,47.016924769489982</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Taylor Flats</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.212105150309398,46.262492536145402</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Teton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-110.836415370727551,43.537684148128477</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Thatcher Junction</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.124314135459713,45.530759095389953</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Thayer Drive</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.28904643263111,46.276856753150902</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Tide Flats</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.393200844539066,47.274003924800219</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Tillamook</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.829101986859442,45.458092210742798</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Toledo</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.922523907465688,44.621146794096646</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Tonasket</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.445828641950229,48.696972264786027</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Trego</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.858301366125005,48.707712586047407</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Trojan</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.889428408844111,46.039541449031553</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Tumble Creek</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.188133261693451,44.725715819431592</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Underwood</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.543489885208444,45.743110669843702</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Unity</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.743870296618923,42.482005960310723</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Usk</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.271445918976411,48.28900338218147</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Valhalla</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.127980873192882,47.353259978343999</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Vantage</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.939834937369952,46.877638145247943</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Vera</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.197099791026261,47.624661875188892</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Wagner Lake</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.742278915010033,47.642056075838241</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Walla Walla</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.406483755183629,46.068593197131555</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Walnut City</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.223045918195751,45.20945734967426</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Wanapum</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.940474056030496,46.879102771800625</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Warden</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.057110076805074,46.969386219884392</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Warner</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.533071628163555,41.50086139286995</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Warren</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.888531308480509,45.819499380999346</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Wauna</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.411145399185187,46.154751585960341</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Wendson</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-124.01097582637847,44.007498325661359</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Westside</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-112.09948373694958,43.468823626616896</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Westside</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.503730636602654,47.728068323608937</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>White Bluffs</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.361757087156619,46.362429056262151</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>White Swan</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.786637502667872,46.389400681210731</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Willapa River</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.776617036503268,46.664174158630914</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Winthrop</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.191802469325253,48.483683617758246</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Wren</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.428337289648155,44.590715365070295</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Yaak</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-115.987674489619721,48.599579662619846</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Meridian</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.754162665166447,42.363452675447753</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Loon Lake</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.629525734891473,48.090346197880521</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Pella</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.897153864841528,46.642114511537429</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Tongue Point</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.756376404055644,46.198127595320457</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Townsend</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-111.472036079412078,46.253710007254305</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Union Gap</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.489775587944152,46.559336263841324</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Kerr</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.245144826045248,47.677751425260048</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Bonnevile Dam</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.946487730401756,45.640500376092362</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Dexter</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.805603524967694,43.924329254098311</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>John Day</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.691121292745734,45.713561838376499</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Little Goose</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.027124240786151,46.582853088106454</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Swift No.1 Power Plant</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.203719513048384,46.062616435686515</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Ice Harbor</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.879651497753855,46.248094097513679</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Grand Coulee 230 kV</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.999416609885998,47.955528872418817</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Lopez Island</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.865056679701993,48.49240266706316</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Canal</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.585623020342481,42.540976775534773</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Green Valley</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.359545209913975,43.415863881025956</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Colville</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.852781495528518,48.553626492978026</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hood River</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.524751767837529,45.68808375218925</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>The Dalles</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.215490797312441,45.612111481914191</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Rocky Ford</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.449718852091905,47.259675202636465</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Ellensburg</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.563793535783049,46.998728510118248</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Burnt Woods</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.610080794732838,44.605728320269236</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Davis Creek</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.366846823261994,41.733138714850391</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Beverly Park</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.209881167281168,47.928708333502158</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Delight</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.546698852355533,46.802326350693903</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hilltop</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.634881772829033,41.512738356379288</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Jerita</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.863659907194176,46.722319454610961</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Mayview</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.661986419585617,46.550253538698321</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Rattlesnake</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.968520212532511,46.910176604528985</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Sand Creek</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.545565132101331,48.33955145115943</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Stateline</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.572463925565359,45.962019198284899</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Ione</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.76862104712707,45.517083738101327</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>La Grande</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.071881447215929,45.311857203882042</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Sherwood</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.836013135392861,45.371813165491744</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Trentwood</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.204755110892521,47.687841673864583</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Willakenzie</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.049214900275032,44.082250361621512</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Wells</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.865008469022996,47.947055441075257</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hideaway</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.063941684110588,43.993340949824976</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Lancaster</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.919484681115406,47.785345289241135</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Canby</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.880938012032985,41.44492597793046</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Boyer</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.717393255991254,45.074751756256795</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Silver Bow</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-112.680139533628477,45.994778788274729</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Valley Way</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.226510374040032,47.661095214299714</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Cedarville Junction</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.41401689753171,41.564243122658866</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Clarkston</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.100010881874738,46.423866914288119</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Clatskanie</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.209811010312208,46.097660940366694</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Coulee City</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.277060133894622,47.612914869540312</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hughes</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.09227791730261,44.958751712191919</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Bothell</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.179500525773364,47.854696944096233</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Cheshire</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.230680563093784,44.192868928679417</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Cheney</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.57956141878168,47.47687489578842</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Baxter</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.196471310904215,46.412908818071941</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Beaver</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.823762931566392,45.276304566333508</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Bald Mountain</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.529554621009837,45.756681024894952</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Corvallis</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.103853438506462,46.312439564596339</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Cape Horn</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.176980010840552,45.592867583426248</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Cougar</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.243846333362299,44.130356635865837</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Alderwood</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.367073691275181,44.150144048062742</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Dayton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.966195459702263,46.328578669294679</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>De Moss</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.686118393879738,45.515105191926665</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Deer Park</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.496251893081919,47.959753494713638</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Dexter</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.805721784658488,43.924606446503432</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Dixon</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.300463828614738,47.309719852108586</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Dorena</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.965319152858143,43.778478033353409</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Drummond</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-111.339448701129285,43.990698644634662</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Duckabush</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.950149418711661,47.660629270312292</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>East Ellensburg</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.522320531630726,46.999876887074628</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Elmo</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.3538531097538,47.833601336538557</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Eltopia</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.024181703284071,46.430782737002325</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Elbe</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.191464671060857,46.765283411360016</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Eugene</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.146566994949168,44.075591662763145</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Fern Ridge</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.352153507033393,44.029031438707911</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Fern Hill</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.757359856709726,46.174677787993744</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Florence</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-124.083373601565754,43.982662969251031</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Frenchtown</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.191686719727429,46.947464039351203</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Froman</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.046934283889968,44.571363407513552</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Garibaldi</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.880355421398335,45.560336458229294</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Glade</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.118485344756749,46.329075243813556</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Goose Lake</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.321880108252046,48.149914632102437</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Grandview</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.874598860890003,46.303895873078076</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Grays River</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.620485552285999,46.333957831569336</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Chemical</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.983817373745694,46.134077432451605</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Gaffney</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.140052870223656,47.332331333982182</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Grantsdale</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.142346358729924,46.199959396780251</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Huson</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.339304862739013,47.033565426853905</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Larene</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.16254483190211,47.733189085625952</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Victor</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.134814402507928,46.443818037781192</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Athol</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.694579381789055,47.950391700793503</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hatton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.857323217216091,46.822057787441182</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hay Mill</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.687436009316343,42.606539865337027</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hebo</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.843258489856552,45.21768366650889</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Highlands</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.193053342753032,46.196313733304976</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Junction City</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.200234764558076,44.16352981866401</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Happy Valley</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.106074745240321,48.042379972708851</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Holcomb</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.594131299677656,46.586568489423051</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Ledbeder</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.348979476669953,46.271776962946419</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Levey</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.8873406109673,46.255642982552388</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Lathum</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.073016654176996,43.766049655886704</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Vancouver Shipyard</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.633926166315277,45.619160144431675</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Lost River</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.336367006020055,43.782852208298607</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Mabton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.972026680715814,46.199536218116435</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Metaline Falls</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.383145073689406,48.867371941581546</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Monmouth</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.207708403619861,44.864277732600826</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Mountain Home</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-115.62490443027707,43.175089820036284</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Murray</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.083498071338653,48.154291982193016</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Martin Creek</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.113616590643588,43.741862391205537</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Tyee</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.506014904438743,47.149459612805366</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Driscoll</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.414679969487551,46.149220221811206</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>West Burley</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.812970642531752,42.534236912038935</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>North Bench</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.296027015512877,48.734677457795989</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>North Mcnary Switch</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.311295714191914,45.941879883182935</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Oakridge</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.484830374307137,43.751062167914007</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Olympia</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.953369010212754,47.001010343829186</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Pearl</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.776916797209452,45.329339674448171</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Ponderosa</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.932747645513757,44.225670290292619</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Potlatch</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.186473093721986,47.383386544721816</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Parker</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.190749946238356,44.121991728292329</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Rainier</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.930259850942306,46.077180832833371</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Ringold</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.131325386025182,46.505325295571986</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Roe's Corner</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.627855381130871,42.647589149816234</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Round Valley</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.133183364575956,44.444964611750869</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Salem Alumina</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.016202729964832,44.972309517407197</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>South Elma</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.372943982056015,46.986599813297325</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Mountain View</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.122575056333346,47.227425888927769</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Springhill</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.582720538545161,47.745917580978741</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Stevensville</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.067955787846444,46.559381707042817</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Summer Lake</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.95615131754117,43.014068973316107</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Woodland</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.645277957274473,45.940692345727065</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Troutdale</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.404230125578053,45.558874148417239</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Troy</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-115.870399026180692,48.441855029902662</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Nespelem</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.975171311846211,48.128802010760751</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>The Dalles</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.122688022502842,45.618441660606081</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Benton City</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.494302286785313,46.299542028013306</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Celilo</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.113078557170013,45.59460750569913</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Columbia Falls</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.143889048360748,48.362784486872727</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Anaconda</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-112.875838326805436,46.099664042279656</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Anderson Ranch</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-115.451564924349569,43.356791568864089</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Astoria</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.83747007545864,46.172829887379287</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Black Canyon</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.437903518781781,43.930840821270266</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Chief Joseph</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.641380990904679,47.995233677687267</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Clayton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.565692441202955,48.012660770030763</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Cosmopolis</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.766078250564576,46.948965915855396</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>East Arlington</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.113380043871601,48.188777147825434</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Echo Lake</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.872961090560096,47.492645585572326</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Filbert</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.100825203284344,45.509888408171363</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Foster</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.671053308789311,44.414741716117042</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Goshen</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-112.121247031074162,43.309292708824252</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Harvalum</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.705418565775176,45.728792531191637</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Libby</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-115.307256603787366,48.394557606241762</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>North Lewiston</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.025975020470568,46.431044211698136</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Roza</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.478316774814161,46.618320635775113</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Satsop</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.464763874512983,46.968357911242464</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Sedro Woolley</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.20405056671774,48.504956151172934</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Spar Canyon</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.028589821155037,44.295194960198899</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Spirit</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.645884161821371,48.81443005120456</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>White River</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.210137291428438,47.238603873916254</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Windishar</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.165727082482448,45.227471009958123</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Foster Creek</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.653732501210214,47.991140174965622</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Belfair</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.847530085324735,47.420754363023143</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>La Pine</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.454279900156919,43.661112693609134</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Priest River</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.865083743181444,48.216314768980489</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Rainbow Valley</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.241311685387302,44.00212174457161</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Ritzville</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.386545416566022,47.133052191120115</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Victor</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-111.121685394726185,43.608386473837072</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Pe Ell</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.30047067794959,46.559852239976692</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Two Mile Road</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-124.400531017522979,43.057831105203306</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Little Goose</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.05294448068932,46.581893041704191</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Cowlitz</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.937289139747136,46.114764048163444</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Maupin</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.035701709314807,45.193916331650207</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Tygh Valley</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.090666684972405,45.214975961224383</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Walton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.590901722586807,44.033404012804375</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Mohler</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.854211726323314,45.705779195273614</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Mason</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.100217100628925,47.209920145330578</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>North Brookings</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-124.31254445182114,42.082034621719359</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Mt. Vernon</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.932695134707672,44.031465721694055</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Moyie</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.199171686954656,48.72180332655396</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Nilles Corner</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.407889505678241,48.004271163706782</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Morton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.284512929848219,46.554543038517423</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Minidoka</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.49208474909139,42.752469894470671</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Minidoka</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.482130443794404,42.670152621982837</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Ruby Street</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.13120354920747,46.241892588399502</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Red Mountain</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.405103354949958,46.28186861286666</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Horn Rapids</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.422569409011757,46.333196471571284</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Dixie</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-115.452171230849643,43.357225172143153</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Satsop Park</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.462182046450579,46.969011336268338</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Fort Rock</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.921667372877451,43.243709546761067</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Pomeroy</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.578425400019242,46.368608402735461</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Samuels</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.471795601100567,48.42898118775264</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Sand Spring</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.853724645055905,43.720424045242957</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Sycan</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.988987385280069,42.853836276253972</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Timber</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.296034886122712,45.760319856767957</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Napavine</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.917399248439295,46.622762015740889</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Station X</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.65307230199717,47.555660465915643</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Station H</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.651854238900242,47.559199673924383</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Elma</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.402699345085168,47.008552663970541</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>North Butte</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.671761723516795,44.420465382818513</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Hayford</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.541405740550204,47.590587842973761</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Halfmoon</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.410275019088232,47.838748868875932</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Mossyrock</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.50705627665711,46.532328158080446</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Mica</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.21745606091045,47.543067915706175</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Steilacoom</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.578933318016453,47.170078421404227</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Surprise Lake</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.325356615616002,47.244097945557421</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Wautoma</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.834549101307886,46.515511917616884</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Trask River</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.798562809187558,45.41568323044914</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Fargo</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.816964877466788,45.245437273856531</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Four Lakes</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.564984934011406,47.528912045716929</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Oak Park</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.380278603835734,45.582289631936042</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>South Tacoma</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.372022883602114,47.091887652921415</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Tanner</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.80196644876186,47.501266527961505</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Lookingglass</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-123.512832868731692,43.175101533745845</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Lone Pine</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.962014689157243,47.97786444781655</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Sullivan</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.195999196434258,47.661137788654869</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Idahome</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.401644514440562,42.415857489592781</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Clinton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.709030675734994,46.754383805721311</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>East Grangeville</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-116.1029157531907,45.93184209978719</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Coyote Springs</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.673810565690928,45.847160628445273</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Fort Rock</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.899286401595035,43.250563495253317</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Spring Creek</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.384309453646111,45.980058204986413</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Tucannon River</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-117.705191799286752,46.353698400249613</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Jones Canyon</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.214978252142842,45.674454206630081</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Centralia Thermal Powerhouse</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.865934543408599,46.753944178839795</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Foster</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.671505684706958,44.412278567614528</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Rock Creek</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.532114715486813,45.783399844768802</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Brasada</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.052631998625188,44.144328968758984</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Discovery</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-121.20334013550999,45.63197624941796</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>John Day 230 kV</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.735886699936003,45.675667932169297</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Columbia Falls 230 kV</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-114.141323030688483,48.362858247288514</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Longview Annex II</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.997693285539285,46.143387620464722</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Targee Tap Switching Station</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-111.123389239381652,43.566553476886376</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>First Lift</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.616695454425781,42.539310985450683</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Newcomb</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.55862964757047,42.576032708226819</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Broadmoor</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.194237456304819,46.285939360668046</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Wine Country</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.950673138117523,46.294006551483804</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Klondike</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.601825773438222,45.584782489383045</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Riverton</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-113.760183374721166,42.553445077683868</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Narrows</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.560960566293346,47.289226923955191</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Bethel (PGE)</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.916912149849026,44.931008050379788</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Condon Wind</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.277582171352947,45.246224726345147</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Longview Annex I</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-122.992212720292457,46.14171521624241</coordinates></Point> 
+</Placemark> 
+   </Document> 
+</kml> 

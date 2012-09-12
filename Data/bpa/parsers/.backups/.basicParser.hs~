@@ -1,0 +1,11 @@
+
+readSubstationFile :: String -> [[String]]
+readSubstationFile (line : lines) = 
+  parseLine line : readSubstationFile lines
+readSubstationFile (line : [] ) =
+  parseLine line
+  
+parseLine :: String -> [String]
+parseLine (gid: ',' :sta_code: ',' :name: ',' :typ: ',' :owner: ',' :geo) = 
+  [gid, sta_code, name, typ, owner, geo]
+  
