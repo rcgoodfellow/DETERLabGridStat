@@ -296,7 +296,7 @@ int placeMark(float lat, float lon, char** pm)
         "<Placemark>\n"    
             "<name>Squantkkjo</name>\n"
             "<Point>\n"
-                "<coordinates>46.7369, -117.1809</coordinates>\n"
+                "<coordinates>-117.809, 46.7369</coordinates>\n"
             "</Point>\n"
          "</Placemark>\n";
 
