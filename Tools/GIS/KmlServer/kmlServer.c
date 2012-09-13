@@ -293,10 +293,18 @@ int createKml(char** kml)
 int placeMark(float lat, float lon, char** pm)
 {
     char* data =    
-        "<Placemark>\n"    
-            "<name>Squantkkjo</name>\n"
+        "<Placemark>\n"   
+            "<Style>\n"
+                "<IconStyle>\n"
+                    "<color>ff339900</color>\n"
+                    "<Icon>\n"
+                        "<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>\n"
+                    "</Icon>\n"
+                "</IconStyle>\n"
+            "</Style>\n" 
+            "<name>Squanto</name>\n"
             "<Point>\n"
-                "<coordinates>-117.809, 46.7369</coordinates>\n"
+                "<coordinates>-117.181111, 46.737158</coordinates>\n"
             "</Point>\n"
          "</Placemark>\n";
 
