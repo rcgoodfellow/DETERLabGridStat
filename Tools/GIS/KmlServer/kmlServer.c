@@ -297,6 +297,7 @@ int placeMark(float lat, float lon, char** pm)
             "<Style>\n"
                 "<IconStyle>\n"
                     "<color>ff339900</color>\n"
+                    "<scale>0.5</scale>\n"
                     "<Icon>\n"
                         "<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>\n"
                     "</Icon>\n"
