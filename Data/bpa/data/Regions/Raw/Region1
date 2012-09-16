@@ -1,0 +1,87 @@
+gid;sta_code;name;type;owner;st_askml
+1;ABER;Aberdeen;Substation;Bonneville Power Administration;<Point><coordinates>-123.851808780490956,46.980304207950233</coordinates></Point>
+9;ALSN;Allston;Substation;Bonneville Power Administration;<Point><coordinates>-123.032442926307709,46.10747282730641</coordinates></Point>
+42;CARD;Cardwell;Substation;Bonneville Power Administration;<Point><coordinates>-122.844566327472663,46.045674695245069</coordinates></Point>
+47;CENT;Centralia;Substation;Bonneville Power Administration;<Point><coordinates>-122.948634064087926,46.729457568584671</coordinates></Point>
+48;CNSS;Centralia;Switching Station;Pacific Power and Light Company (PacifiCorp);<Point><coordinates>-122.839619765455637,46.727241665168016</coordinates></Point>
+51;CHEH;Chehalis;Substation;Bonneville Power Administration;<Point><coordinates>-122.947013272696879,46.599124872270359</coordinates></Point>
+52;CHEL;Chelatchie;Substation;Clark Public Utilities;<Point><coordinates>-122.390370106031767,45.924995083168128</coordinates></Point>
+63;COWT;Cowlitz;Substation;Tacoma City Light Company;<Point><coordinates>-122.370401860371672,47.182524288949878</coordinates></Point>
+85;FIRC;Fircrest;Substation;City of Fircrest;<Point><coordinates>-122.51615347393971,47.218678685131849</coordinates></Point>
+95;GILM;Gilmer;Substation;Klickitat County PUD;<Point><coordinates>-121.513309825187633,45.868701038849572</coordinates></Point>
+135;LEXI;Lexington;Substation;Bonneville Power Administration;<Point><coordinates>-122.913172628121671,46.181859257921651</coordinates></Point>
+137;LOBE;Tarlett;Substation;Pacific County PUD;<Point><coordinates>-124.026086319853817,46.37117497243959</coordinates></Point>
+138;LONG;Longview;Substation;Bonneville Power Administration;<Point><coordinates>-122.993874460764474,46.139336491416103</coordinates></Point>
+143;LYNC;Lynch Creek;Substation;Bonneville Power Administration;<Point><coordinates>-122.286145902177893,46.876495325128424</coordinates></Point>
+161;NASE;Naselle;Substation;Bonneville Power Administration;<Point><coordinates>-123.805528657359972,46.37621504356553</coordinates></Point>
+180;PAUL;Paul;Substation;Bonneville Power Administration;<Point><coordinates>-122.875519907365216,46.754301034851558</coordinates></Point>
+197;RAYM;Raymond;Substation;Bonneville Power Administration;<Point><coordinates>-123.739785932629218,46.712025875555923</coordinates></Point>
+223;SHEL;Shelton;Substation;Bonneville Power Administration;<Point><coordinates>-123.124159250974344,47.228517520737512</coordinates></Point>
+226;SICR;Silver Creek;Substation;Bonneville Power Administration;<Point><coordinates>-122.592353187409913,46.522898879899451</coordinates></Point>
+257;TROJ;Trojan;Substation;Portland General Electric Company;<Point><coordinates>-122.889428408844111,46.039541449031553</coordinates></Point>
+278;WILR;Willapa River;Substation;Pacific County PUD;<Point><coordinates>-123.776617036503268,46.664174158630914</coordinates></Point>
+293;SWFT;Swift No.1 Power Plant;Other;Pacific Power and Light Company (PacifiCorp);<Point><coordinates>-122.203719513048384,46.062616435686515</coordinates></Point>
+352;ELBE;Elbe;Substation;Lewis County PUD;<Point><coordinates>-122.191464671060857,46.765283411360016</coordinates></Point>
+363;GRAR;Grays River;Substation;Wahkiakum County PUD No 1;<Point><coordinates>-123.620485552285999,46.333957831569336</coordinates></Point>
+364;CHEC;Chemical;Substation;Cowlitz County PUD;<Point><coordinates>-122.983817373745694,46.134077432451605</coordinates></Point>
+377;HOLC;Holcomb;Substation;Bonneville Power Administration;<Point><coordinates>-123.594131299677656,46.586568489423051</coordinates></Point>
+389;TYEE;Tyee;Substation;Lakeview Light and Power;<Point><coordinates>-122.506014904438743,47.149459612805366</coordinates></Point>
+395;OLYM;Olympia;Substation;Bonneville Power Administration;<Point><coordinates>-122.953369010212754,47.001010343829186</coordinates></Point>
+400;RAIN;Rainier;Substation;Portland General Electric Company;<Point><coordinates>-122.930259850942306,46.077180832833371</coordinates></Point>
+405;SELM;South Elma;Substation;Grays Harbor County PUD;<Point><coordinates>-123.372943982056015,46.986599813297325</coordinates></Point>
+406;MTVW;Mountain View;Substation;Mason County PUD No 3;<Point><coordinates>-123.122575056333346,47.227425888927769</coordinates></Point>
+410;WDLD;Woodland;Switching Station;Bonneville Power Administration;<Point><coordinates>-122.645277957274473,45.940692345727065</coordinates></Point>
+424;COSM;Cosmopolis;Substation;Bonneville Power Administration;<Point><coordinates>-123.766078250564576,46.948965915855396</coordinates></Point>
+434;SATS;Satsop;Substation;Bonneville Power Administration;<Point><coordinates>-123.464763874512983,46.968357911242464</coordinates></Point>
+438;WHRV;White River;Substation;Puget Sound Energy Company;<Point><coordinates>-122.210137291428438,47.238603873916254</coordinates></Point>
+447;PEEL;Pe Ell;Substation;Lewis County PUD;<Point><coordinates>-123.30047067794959,46.559852239976692</coordinates></Point>
+450;COWL;Cowlitz;Substation;Bonneville Power Administration;<Point><coordinates>-122.937289139747136,46.114764048163444</coordinates></Point>
+455;MASO;Mason;Substation;Mason County PUD No 3;<Point><coordinates>-123.100217100628925,47.209920145330578</coordinates></Point>
+460;MORT;Morton;Substation;Lewis County PUD;<Point><coordinates>-122.284512929848219,46.554543038517423</coordinates></Point>
+467;SATP;Satsop Park;Substation;Grays Harbor County PUD;<Point><coordinates>-123.462182046450579,46.969011336268338</coordinates></Point>
+474;NAPV;Napavine;Substation;Bonneville Power Administration;<Point><coordinates>-122.917399248439295,46.622762015740889</coordinates></Point>
+477;ELMA;Elma;Substation;Grays Harbor County PUD and BPA;<Point><coordinates>-123.402699345085168,47.008552663970541</coordinates></Point>
+481;MOSR;Mossyrock;Substation;Lewis County PUD;<Point><coordinates>-122.50705627665711,46.532328158080446</coordinates></Point>
+483;STIL;Steilacoom;Substation;Bonneville Power Administration;<Point><coordinates>-122.578933318016453,47.170078421404227</coordinates></Point>
+484;SULK;Surprise Lake;Substation;Bonneville Power Administration;<Point><coordinates>-122.325356615616002,47.244097945557421</coordinates></Point>
+490;STAC;South Tacoma;Substation;Bonneville Power Administration;<Point><coordinates>-122.372022883602114,47.091887652921415</coordinates></Point>
+503;CTPH;Centralia Thermal Powerhouse;Substation;Pacific Power and Light Company (PacifiCorp);<Point><coordinates>-122.865934543408599,46.753944178839795</coordinates></Point>
+510;LNGW;Longview Annex II;Switchyard;Bonneville Power Administration;<Point><coordinates>-122.997693285539285,46.143387620464722</coordinates></Point>
+521;LNGV;Longview Annex I;Switchyard;Bonneville Power Administration and Cowlitz Co PUD;<Point><coordinates>-122.992212720292457,46.14171521624241</coordinates></Point>
+19;BNGR;Bangor;Substation;US Navy;<Point><coordinates>-122.693554463419289,47.711127666525947</coordinates></Point>
+21;BELG;Bellingham;Substation;Bonneville Power Administration;<Point><coordinates>-122.422828593660867,48.797482082221819</coordinates></Point>
+62;COVI;Covington;Substation;Bonneville Power Administration;<Point><coordinates>-122.121252133134377,47.34758784867477</coordinates></Point>
+67;CUST;Custer;Substation;Bonneville Power Administration;<Point><coordinates>-122.625423230282493,48.904528730838408</coordinates></Point>
+81;FAMT;Fairmount;Substation;Bonneville Power Administration;<Point><coordinates>-122.885071059161533,47.975455239763107</coordinates></Point>
+84;FIDA;Fidalgo;Substation;Bonneville Power Administration;<Point><coordinates>-122.690275763059063,48.50059684434202</coordinates></Point>
+92;FRIH;Friday Harbor;Substation;Orcas Power and Light Company;<Point><coordinates>-123.013816790900904,48.532429966441391</coordinates></Point>
+122;INTA;Intalco;Substation;Bonneville Power Administration;<Point><coordinates>-122.705812631645927,48.845572604250599</coordinates></Point>
+129;KTSA;Kitsap;Substation;Bonneville Power Administration;<Point><coordinates>-122.703469901810564,47.531739754845944</coordinates></Point>
+149;MPLV;Maple Valley;Substation;Bonneville Power Administration;<Point><coordinates>-122.186180833214578,47.469744162852272</coordinates></Point>
+159;MONE;Monroe;Substation;Bonneville Power Administration;<Point><coordinates>-121.889457501899486,47.897231441517924</coordinates></Point>
+185;POAN;Port Angeles;Substation;Bonneville Power Administration;<Point><coordinates>-123.418175005784121,48.101052642331815</coordinates></Point>
+191;QUIL;Quilcene;Substation;Puget Sound Energy Company;<Point><coordinates>-122.867894807502609,47.828922929791162</coordinates></Point>
+196;RAVE;Raver;Substation;Bonneville Power Administration;<Point><coordinates>-121.933836370353987,47.336054458127158</coordinates></Point>
+217;SAPO;Sappho;Substation;Bonneville Power Administration;<Point><coordinates>-124.269524778582408,48.071922539006472</coordinates></Point>
+229;SNOH;Snohomish;Substation;Bonneville Power Administration;<Point><coordinates>-122.103872136984691,47.923791977580599</coordinates></Point>
+230;SNOK;Sno-king;Substation;Bonneville Power Administration;<Point><coordinates>-122.186703283254474,47.813003649850536</coordinates></Point>
+232;SORE;South Renton;Substation;Puget Sound Energy Company;<Point><coordinates>-122.208461986714497,47.471083003053629</coordinates></Point>
+233;SOUT;South;Substation;Seattle City Light Company;<Point><coordinates>-122.330632056970146,47.568280661101227</coordinates></Point>
+242;TACO;Tacoma;Substation;Bonneville Power Administration;<Point><coordinates>-122.36908022321127,47.256703916167972</coordinates></Point>
+245;TALB;Talbot;Substation;Puget Sound Energy Company;<Point><coordinates>-122.191491804000108,47.468017044493685</coordinates></Point>
+252;TDFL;Tide Flats;Substation;Tacoma City Light Company;<Point><coordinates>-122.393200844539066,47.274003924800219</coordinates></Point>
+296;LOPZ;Lopez Island;Substation;Bonneville Power Administration;<Point><coordinates>-122.865056679701993,48.49240266706316</coordinates></Point>
+306;BEVP;Beverly Park;Substation;Puget Sound Energy Company;<Point><coordinates>-122.209881167281168,47.928708333502158</coordinates></Point>
+331;BOTH;Bothell;Substation;Seattle City Light Company;<Point><coordinates>-122.179500525773364,47.854696944096233</coordinates></Point>
+348;DUCK;Duckabush;Substation;Mason County PUD No 1;<Point><coordinates>-122.950149418711661,47.660629270312292</coordinates></Point>
+376;HAPY;Happy Valley;Substation;Bonneville Power Administration;<Point><coordinates>-123.106074745240321,48.042379972708851</coordinates></Point>
+387;MURY;Murray;Substation;Bonneville Power Administration;<Point><coordinates>-122.083498071338653,48.154291982193016</coordinates></Point>
+398;POTL;Potlatch;Substation;Bonneville Power Administration;<Point><coordinates>-123.186473093721986,47.383386544721816</coordinates></Point>
+425;EARL;East Arlington;Substation;Snohomish County PUD;<Point><coordinates>-122.113380043871601,48.188777147825434</coordinates></Point>
+426;ECOL;Echo Lake;Substation;Bonneville Power Administration;<Point><coordinates>-121.872961090560096,47.492645585572326</coordinates></Point>
+435;SEWO;Sedro Woolley;Substation;Puget Sound Energy Company;<Point><coordinates>-122.20405056671774,48.504956151172934</coordinates></Point>
+441;BELF;Belfair;Substation;Mason County PUD No 3;<Point><coordinates>-122.847530085324735,47.420754363023143</coordinates></Point>
+475;PSNX;Station X;Substation;US Navy and BPA;<Point><coordinates>-122.65307230199717,47.555660465915643</coordinates></Point>
+476;PSNH;Station H;Substation;US Navy;<Point><coordinates>-122.651854238900242,47.559199673924383</coordinates></Point>
+491;TANN;Tanner;Substation;Tanner Electric Cooperative;<Point><coordinates>-121.80196644876186,47.501266527961505</coordinates></Point>
+518;NROW;Narrows;Substation;Peninsula Light Company;<Point><coordinates>-122.560960566293346,47.289226923955191</coordinates></Point>

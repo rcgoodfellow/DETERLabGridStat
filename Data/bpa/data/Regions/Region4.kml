@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Region4.kml</name>
+	<Style id="sn_donut">
+		<IconStyle>
+			<color>ffff1e13</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<PolyStyle>
+			<color>991568e1</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_donut">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_donut</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_donut</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_donut">
+		<IconStyle>
+			<color>ffff1e13</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<PolyStyle>
+			<color>991568e1</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Region 4</name>
+		<styleUrl>#msn_donut</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-116.4201652836994,41.81821672842072,0 -109.2845628306906,41.76567657373356,0 -109.7844186538688,45.04185810420009,0 -110.645508357564,45.50856213834219,0 -112.6422418378044,45.62751907190106,0 -113.8530923909107,45.69005275567926,0 -114.9318479544178,46.15153699027618,0 -115.4593335203353,46.58607004446025,0 -115.9592362523315,46.80191979177378,0 -116.5676727507973,47.1334752623865,0 -117.5106144709528,47.23640602529743,0 -117.8335550349667,47.17184301407558,0 -118.1045550339193,47.18864890832004,0 -118.3768192236506,47.19854641591898,0 -118.6611901793107,47.20711180140152,0 -118.8613688535631,47.18271363533578,0 -119.0107973421877,47.07374544609556,0 -119.1016616350901,46.99504306986761,0 -119.216376445322,46.90609631574072,0 -119.3554591868414,46.83343737860172,0 -119.5790490680525,46.79964362082596,0 -119.8060760988004,46.80111135845168,0 -120.8448286611488,46.82668323393224,0 -121.0675246263056,46.81881755634605,0 -121.1300424337767,46.01068826248867,0 -120.043703795312,45.906029755502,0 -119.5748971660447,45.706698242484,0 -116.4201652836994,41.81821672842072,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Region2.kml</name>
+	<StyleMap id="msn_donut">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_donut</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_donut</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_donut">
+		<IconStyle>
+			<color>ffff1e13</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<PolyStyle>
+			<color>9939e117</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_donut">
+		<IconStyle>
+			<color>ffff1e13</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<PolyStyle>
+			<color>9939e117</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Region 2</name>
+		<styleUrl>#msn_donut</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-117.7621240421933,47.36083861423759,0 -115.5522369261968,47.21069049940824,0 -114.8906962649414,46.95866468188163,0 -114.1275287017522,46.09741432749409,0 -112.054727716713,45.86601977101277,0 -110.8330391917573,46.24625737672485,0 -110.8300021617912,46.66049915796876,0 -112.239726599955,47.77407954645717,0 -113.6917733056489,48.85340189737706,0 -114.4297833791076,48.98579717990044,0 -115.1672522005575,49.0586029903931,0 -116.6441162838581,49.14492051939182,0 -117.4607304783553,49.18690749522837,0 -118.0591513120799,49.02737964246597,0 -117.7621240421933,47.36083861423759,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

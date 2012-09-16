@@ -1,0 +1,49 @@
+gid;sta_code;name;type;owner;st_askml
+133;LARS;Larson;Substation;Grant County PUD;<Point><coordinates>-119.276097583307646,47.190922648261555</coordinates></Point>
+181;PEHO;Pelican Horn;Substation;Grant County PUD;<Point><coordinates>-119.278931169820126,47.113312397234459</coordinates></Point>
+187;POTH;Potholes;Substation;Bonneville Power Administration;<Point><coordinates>-119.529620519741997,47.10508543803077</coordinates></Point>
+192;QUIN;Quincy;Substation;Grant County PUD;<Point><coordinates>-119.874298896292999,47.23370382666662</coordinates></Point>
+214;SADU;Sand Dunes;Substation;Grant County PUD;<Point><coordinates>-119.278119174071861,47.073086614293111</coordinates></Point>
+220;SHUL;Schultz;Substation;Bonneville Power Administration;<Point><coordinates>-120.510217278635807,47.121383428865613</coordinates></Point>
+263;VANT;Vantage;Substation;Bonneville Power Administration;<Point><coordinates>-119.939834937369952,46.877638145247943</coordinates></Point>
+268;WASY;Wanapum;Switchyard;Grant County PUD;<Point><coordinates>-119.940474056030496,46.879102771800625</coordinates></Point>
+303;ELLN;Ellensburg;Substation;City of Ellensburg and BPA;<Point><coordinates>-120.563793535783049,46.998728510118248</coordinates></Point>
+349;EAEL;East Ellensburg;Substation;City of Ellensburg;<Point><coordinates>-120.522320531630726,46.999876887074628</coordinates></Point>
+33;BREW;Brewster;Substation;Okanogan County PUD;<Point><coordinates>-119.7878949286508,48.104229760175521</coordinates></Point>
+55;CHJO;Chief Joseph;Substation;Bonneville Power Administration;<Point><coordinates>-119.651596855071531,47.986251064708341</coordinates></Point>
+57;COLU;Columbia;Substation;Bonneville Power Administration;<Point><coordinates>-120.077408505541754,47.294058046391491</coordinates></Point>
+64;CRES;Creston;Substation;Bonneville Power Administration;<Point><coordinates>-118.505780079775732,47.770998975057431</coordinates></Point>
+73;DOSY;Douglas;Switchyard;Douglas Electric Cooperative;<Point><coordinates>-120.289669328812451,47.530417640716628</coordinates></Point>
+78;EAMT;Eastmont;Substation;Douglas Electric Cooperative;<Point><coordinates>-120.26295861258302,47.420774544670678</coordinates></Point>
+79;EOMK;East Omak;Substation;Bonneville Power Administration;<Point><coordinates>-119.500923915556058,48.429537681850682</coordinates></Point>
+80;ELIS;Ellisford;Substation;Okanogan County PUD;<Point><coordinates>-119.428866580598111,48.828946209871219</coordinates></Point>
+99;GCFI;Grand Coulee 500 kV;Switchyard;US Bureau of Reclamation;<Point><coordinates>-119.020373958647937,47.9663603784701</coordinates></Point>
+100;GRPH;Grand Coulee Third;Powerhouse;US Bureau of Reclamation;<Point><coordinates>-118.996999182580296,47.954531470040465</coordinates></Point>
+127;KELL;Keller;Substation;Bonneville Power Administration;<Point><coordinates>-118.679190395875906,48.069105224713439</coordinates></Point>
+163;NEPH;North Ephrata;Substation;Grant County PUD;<Point><coordinates>-119.533104632029378,47.325581212660445</coordinates></Point>
+168;ODES;Odessa;Substation;Bonneville Power Administration;<Point><coordinates>-118.688150340347576,47.338363524277376</coordinates></Point>
+169;OKAN;Okanogan;Substation;Okanogan County PUD;<Point><coordinates>-119.570622678780424,48.365157339725599</coordinates></Point>
+170;OMAK;Omak;Substation;Okanogan County PUD;<Point><coordinates>-119.514873053583344,48.432166168289562</coordinates></Point>
+171;OPHI;Ophir;Substation;Okanogan County PUD;<Point><coordinates>-119.716788018474375,48.192826197740644</coordinates></Point>
+173;ORON;Orondo;Substation;Douglas Electric Cooperative;<Point><coordinates>-120.207819417817305,47.653108484340969</coordinates></Point>
+174;OROV;Oroville;Substation;Okanogan County PUD;<Point><coordinates>-119.44128179471204,48.935624375145998</coordinates></Point>
+201;REPU;Republic;Substation;Bonneville Power Administration;<Point><coordinates>-118.685001864403546,48.649980443449195</coordinates></Point>
+206;RKYR;Rocky Reach;Substation;Bonneville Power Administration;<Point><coordinates>-120.29068261387097,47.529740694514672</coordinates></Point>
+224;SCLR;Sickler;Substation;Bonneville Power Administration;<Point><coordinates>-120.280380514152696,47.536847547106213</coordinates></Point>
+231;SOAP;Soap Lake;Substation;Grant County PUD;<Point><coordinates>-119.469660416096374,47.383068184957033</coordinates></Point>
+255;TONA;Tonasket;Substation;Okanogan County PUD;<Point><coordinates>-119.445828641950229,48.696972264786027</coordinates></Point>
+262;VALH;Valhalla;Substation;Bonneville Power Administration;<Point><coordinates>-120.127980873192882,47.353259978343999</coordinates></Point>
+265;WAGL;Wagner Lake;Substation;Bonneville Power Administration;<Point><coordinates>-118.742278915010033,47.642056075838241</coordinates></Point>
+279;WINH;Winthrop;Substation;Bonneville Power Administration;<Point><coordinates>-120.191802469325253,48.483683617758246</coordinates></Point>
+295;GCTW;Grand Coulee 230 kV;Switchyard;US Bureau of Reclamation;<Point><coordinates>-118.999416609885998,47.955528872418817</coordinates></Point>
+302;RYFD;Rocky Ford;Substation;Grant County PUD;<Point><coordinates>-119.449718852091905,47.259675202636465</coordinates></Point>
+319;WLPH;Wells;Powerhouse;Douglas Electric Cooperative;<Point><coordinates>-119.865008469022996,47.947055441075257</coordinates></Point>
+329;CLCY;Coulee City;Substation;Grant County PUD;<Point><coordinates>-119.277060133894622,47.612914869540312</coordinates></Point>
+361;GOLK;Goose Lake;Substation;Nespelem Valley Electric Cooperative;<Point><coordinates>-119.321880108252046,48.149914632102437</coordinates></Point>
+365;GFNY;Gaffney;Substation;Inland Power and Light Company;<Point><coordinates>-118.140052870223656,47.332331333982182</coordinates></Point>
+368;LREN;Larene;Substation;Inland Power and Light Company;<Point><coordinates>-118.16254483190211,47.733189085625952</coordinates></Point>
+413;NESP;Nespelem;Substation;Nespelem Valley Electric Cooperative;<Point><coordinates>-118.975171311846211,48.128802010760751</coordinates></Point>
+422;CJPH;Chief Joseph;Powerhouse;US Corps of Engineers;<Point><coordinates>-119.641380990904679,47.995233677687267</coordinates></Point>
+440;FOST;Foster Creek;Substation;Nespelem Valley Electric Cooperative;<Point><coordinates>-119.653732501210214,47.991140174965622</coordinates></Point>
+459;NICO;Nilles Corner;Substation;Douglas Electric Cooperative;<Point><coordinates>-119.407889505678241,48.004271163706782</coordinates></Point>
+493;LOPI;Lone Pine;Substation;Nespelem Valley Electric Cooperative;<Point><coordinates>-118.962014689157243,47.97786444781655</coordinates></Point>

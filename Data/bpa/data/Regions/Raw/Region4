@@ -1,0 +1,133 @@
+gid;sta_code;name;type;owner;st_askml
+8;ALFA;Alfalfa;Substation;Bonneville Power Administration;<Point><coordinates>-120.218452469802287,46.30112762641587</coordinates></Point>
+11;ANGU;Angus;Substation;Benton Count PUD;<Point><coordinates>-119.171640164936022,46.211114153188099</coordinates></Point>
+12;ASHE;Ashe;Substation;Bonneville Power Administration;<Point><coordinates>-119.335977265199261,46.479541916729787</coordinates></Point>
+14;ASOT;Asotin;Substation;Clearwater Power Company;<Point><coordinates>-116.938175549489429,46.303379880494113</coordinates></Point>
+15;BADG;Badger Canyon;Substation;Bonneville Power Administration;<Point><coordinates>-119.257160388003598,46.207583948858456</coordinates></Point>
+22;BENT;Benton;Substation;Bonneville Power Administration;<Point><coordinates>-119.273083865633026,46.458018099116579</coordinates></Point>
+27;BLAC;Blackrock;Substation;Benton REA and BPA;<Point><coordinates>-119.872457387850318,46.512793508773854</coordinates></Point>
+29;BOAD;Boardman;Substation;Bonneville Power Administration;<Point><coordinates>-119.64830752635001,45.845204000993043</coordinates></Point>
+35;BRCO;Brinken's Corner;Substation;Clearwater Power Company and BPA;<Point><coordinates>-116.920386006595436,46.993208409835603</coordinates></Point>
+37;BURB;Burbank;Substation;Bonneville Power Administration;<Point><coordinates>-118.986416149301348,46.226559648669166</coordinates></Point>
+50;CHAM;Chambers;Substation;Inland Power and Light Company;<Point><coordinates>-117.31333923116874,46.721816159948304</coordinates></Point>
+60;CONL;Connell;Substation;Franklin County PUD;<Point><coordinates>-118.867275936280492,46.648226764436039</coordinates></Point>
+71;451B;DOE 451B;Substation;Department of Energy;<Point><coordinates>-119.364778737921554,46.436726811242053</coordinates></Point>
+72;ERDA;DOE B3-S4;Substation;Department of Energy;<Point><coordinates>-119.280652130777156,46.372601953574986</coordinates></Point>
+75;DWOK;Dworshak;Substation;Bonneville Power Administration;<Point><coordinates>-116.36718895376903,46.528443215079648</coordinates></Point>
+76;EALK;Eagle Lake;Substation;Bonneville Power Administration;<Point><coordinates>-119.190677546322831,46.683003279094606</coordinates></Point>
+83;FFTF;DOE 451A;Substation;Department of Energy;<Point><coordinates>-119.361884810812725,46.436159055022351</coordinates></Point>
+90;FRAN;Franklin;Substation;Franklin County PUD;<Point><coordinates>-119.041414374924031,46.231138431368279</coordinates></Point>
+91;FREW;Freewater;Substation;City of Milton-Freewater;<Point><coordinates>-118.400799627409768,45.955302269172627</coordinates></Point>
+107;HANF;Hanford;Substation;Bonneville Power Administration;<Point><coordinates>-119.5711375897165,46.669452054763383</coordinates></Point>
+108;HACO;Hanford No.2 Construction;Substation;Energy Northwest and BPA;<Point><coordinates>-119.331808710580319,46.472464973396583</coordinates></Point>
+114;HTRK;Hat Rock;Substation;Bonneville Power Administration;<Point><coordinates>-119.111970432422851,45.919851077430359</coordinates></Point>
+115;HTWA;Hatwai;Substation;Bonneville Power Administration;<Point><coordinates>-116.911351263365532,46.469169501672489</coordinates></Point>
+116;HEDG;Hedges;Substation;Benton Count PUD;<Point><coordinates>-119.039117425263669,46.176366498281233</coordinates></Point>
+119;HORS;Horse Heaven;Substation;Bonneville Power Administration;<Point><coordinates>-119.634609737141588,45.933982565052446</coordinates></Point>
+124;JOSO;Joso;Substation;Columbia REA;<Point><coordinates>-118.826851968123449,46.138315858847292</coordinates></Point>
+128;KENN;Kennewick;Substation;Benton Count PUD;<Point><coordinates>-119.118975665598171,46.197798082046006</coordinates></Point>
+141;LOGT;Lower Granite;Substation;Bonneville Power Administration;<Point><coordinates>-117.420147548917555,46.651761924287626</coordinates></Point>
+142;LOMO;Lower Monumental;Substation;Bonneville Power Administration;<Point><coordinates>-118.544543123161944,46.55043920600589</coordinates></Point>
+153;MCNY;McNary;Substation;Bonneville Power Administration;<Point><coordinates>-119.313612667265204,45.924189787394873</coordinates></Point>
+154;MESA;Mesa;Substation;Big Bend Electric Cooperative;<Point><coordinates>-119.067736002483386,46.586355904465975</coordinates></Point>
+155;MIDW;Midway;Substation;Bonneville Power Administration;<Point><coordinates>-119.782546037631221,46.620533917081033</coordinates></Point>
+157;MILT;Milton;Substation;City of Milton-Freewater;<Point><coordinates>-118.382451693671655,45.92154270245215</coordinates></Point>
+160;MOXE;Moxee;Substation;Bonneville Power Administration;<Point><coordinates>-120.388141862471215,46.592392678071597</coordinates></Point>
+176;OUTL;Outlook;Substation;Pacific Power and Light Company (PacifiCorp);<Point><coordinates>-120.078344516513681,46.375326384236764</coordinates></Point>
+182;PEND;Pendleton;Substation;Bonneville Power Administration;<Point><coordinates>-118.757004401527837,45.677397324025733</coordinates></Point>
+189;PRPH;Priest Rapids;Powerhouse;Grant County PUD;<Point><coordinates>-119.909461170588926,46.644422853044084</coordinates></Point>
+190;PROS;Prosser;Substation;Benton Count PUD;<Point><coordinates>-119.766596383900719,46.211467762396893</coordinates></Point>
+194;RALS;Ralston;Substation;Big Bend Electric Cooperative;<Point><coordinates>-118.314590131010945,46.912971582933899</coordinates></Point>
+198;REAT;Reata;Substation;Benton Count PUD;<Point><coordinates>-119.3137588880724,46.201041648225278</coordinates></Point>
+203;RICH;Richland;Substation;Bonneville Power Administration;<Point><coordinates>-119.289585216460921,46.26196838939547</coordinates></Point>
+204;RIPA;Riparia;Substation;Inland Power and Light Company;<Point><coordinates>-118.083094688205748,46.614225844252076</coordinates></Point>
+209;ROUN;Roundup;Substation;Bonneville Power Administration;<Point><coordinates>-118.746290133660523,45.638203134567725</coordinates></Point>
+210;SACA;Sacajawea;Substation;Bonneville Power Administration;<Point><coordinates>-118.88664467904475,46.239821421503819</coordinates></Point>
+212;SAGE;Sagehill;Substation;Franklin County PUD;<Point><coordinates>-119.299801160666036,46.656013542376535</coordinates></Point>
+219;SRAG;Schrag;Substation;Big Bend Electric Cooperative;<Point><coordinates>-118.809429126703677,47.115092727029953</coordinates></Point>
+221;SCOO;Scooteney;Substation;Bonneville Power Administration;<Point><coordinates>-119.005427333670454,46.663557316605129</coordinates></Point>
+228;SNIP;Snipes;Substation;Bonneville Power Administration;<Point><coordinates>-119.661313759916126,46.30292764582056</coordinates></Point>
+236;STDV;Stevens Drive;Substation;City of Richland;<Point><coordinates>-119.285443356378735,46.295396418826137</coordinates></Point>
+240;SUNH;Sun Harbor;Substation;Bonneville Power Administration;<Point><coordinates>-118.84728845426379,46.2446525980926</coordinates></Point>
+248;TAFL;Taylor Flats;Substation;Franklin County PUD;<Point><coordinates>-119.212105150309398,46.262492536145402</coordinates></Point>
+251;THDV;Thayer Drive;Substation;City of Richland;<Point><coordinates>-119.28904643263111,46.276856753150902</coordinates></Point>
+266;WAWA;Walla Walla;Substation;Bonneville Power Administration;<Point><coordinates>-118.406483755183629,46.068593197131555</coordinates></Point>
+269;WARD;Warden;Substation;Grant County PUD;<Point><coordinates>-119.057110076805074,46.969386219884392</coordinates></Point>
+276;WHBL;White Bluffs;Substation;Bonneville Power Administration;<Point><coordinates>-119.361757087156619,46.362429056262151</coordinates></Point>
+277;WISW;White Swan;Substation;Benton REA;<Point><coordinates>-120.786637502667872,46.389400681210731</coordinates></Point>
+284;PELA;Pella;Substation;Unity Light and Power Company;<Point><coordinates>-119.897153864841528,46.642114511537429</coordinates></Point>
+287;UNGP;Union Gap;Substation;Pacific Power and Light Company (PacifiCorp);<Point><coordinates>-120.489775587944152,46.559336263841324</coordinates></Point>
+292;LIPH;Little Goose;Powerhouse;US Corps of Engineers;<Point><coordinates>-118.027124240786151,46.582853088106454</coordinates></Point>
+294;ICPH;Ice Harbor;Powerhouse;US Corps of Engineers;<Point><coordinates>-118.879651497753855,46.248094097513679</coordinates></Point>
+307;DELT;Delight;Substation;Big Bend Electric Cooperative;<Point><coordinates>-118.546698852355533,46.802326350693903</coordinates></Point>
+309;JERT;Jerita;Substation;Inland Power and Light Company;<Point><coordinates>-117.863659907194176,46.722319454610961</coordinates></Point>
+310;MAYV;Mayview;Substation;Inland Power and Light Company;<Point><coordinates>-117.661986419585617,46.550253538698321</coordinates></Point>
+313;STAT;Stateline;Substation;Columbia REA and  BPA;<Point><coordinates>-118.572463925565359,45.962019198284899</coordinates></Point>
+327;CLAK;Clarkston;Substation;Bonneville Power Administration;<Point><coordinates>-117.100010881874738,46.423866914288119</coordinates></Point>
+334;BAXT;Baxter;Substation;Big Bend Electric Cooperative;<Point><coordinates>-119.196471310904215,46.412908818071941</coordinates></Point>
+341;DATN;Dayton;Substation;Columbia REA and  BPA;<Point><coordinates>-117.966195459702263,46.328578669294679</coordinates></Point>
+351;ELOP;Eltopia;Substation;Big Bend Electric Cooperative;<Point><coordinates>-119.024181703284071,46.430782737002325</coordinates></Point>
+360;GLAD;Glade;Substation;Bonneville Power Administration;<Point><coordinates>-119.118485344756749,46.329075243813556</coordinates></Point>
+362;GRAN;Grandview;Substation;Benton REA and BPA;<Point><coordinates>-119.874598860890003,46.303895873078076</coordinates></Point>
+371;HATN;Hatton;Substation;Big Bend Electric Cooperative;<Point><coordinates>-118.857323217216091,46.822057787441182</coordinates></Point>
+374;HIGH;Highlands;Substation;Benton Count PUD;<Point><coordinates>-119.193053342753032,46.196313733304976</coordinates></Point>
+378;LEDB;Ledbeder;Substation;Benton REA;<Point><coordinates>-119.348979476669953,46.271776962946419</coordinates></Point>
+379;LEVY;Levey;Substation;Bonneville Power Administration;<Point><coordinates>-118.8873406109673,46.255642982552388</coordinates></Point>
+383;MBTN;Mabton;Substation;Bonneville Power Administration;<Point><coordinates>-119.972026680715814,46.199536218116435</coordinates></Point>
+393;NMCN;North Mcnary Switch;Switchyard;Bonneville Power Administration;<Point><coordinates>-119.311295714191914,45.941879883182935</coordinates></Point>
+401;RING;Ringold;Substation;Bonneville Power Administration;<Point><coordinates>-119.131325386025182,46.505325295571986</coordinates></Point>
+415;BECY;Benton City;Substation;Benton Count PUD;<Point><coordinates>-119.494302286785313,46.299542028013306</coordinates></Point>
+432;NLEW;North Lewiston;Substation;Avista Corporation;<Point><coordinates>-117.025975020470568,46.431044211698136</coordinates></Point>
+433;ROZA;Roza;Substation;US Bureau of Reclamation;<Point><coordinates>-120.478316774814161,46.618320635775113</coordinates></Point>
+445;RITZ;Ritzville;Substation;Big Bend Electric Cooperative;<Point><coordinates>-118.386545416566022,47.133052191120115</coordinates></Point>
+449;LIGO;Little Goose;Substation;Bonneville Power Administration;<Point><coordinates>-118.05294448068932,46.581893041704191</coordinates></Point>
+463;RUBY;Ruby Street;Substation;Franklin County PUD;<Point><coordinates>-119.13120354920747,46.241892588399502</coordinates></Point>
+464;RDMT;Red Mountain;Substation;Bonneville Power Administration;<Point><coordinates>-119.405103354949958,46.28186861286666</coordinates></Point>
+465;HORN;Horn Rapids;Substation;Benton Count PUD;<Point><coordinates>-119.422569409011757,46.333196471571284</coordinates></Point>
+469;POME;Pomeroy;Substation;Inland Power and Light Company and BPA;<Point><coordinates>-117.578425400019242,46.368608402735461</coordinates></Point>
+485;WAUT;Wautoma;Substation;Bonneville Power Administration;<Point><coordinates>-119.834549101307886,46.515511917616884</coordinates></Point>
+497;EGVL;East Grangeville;Substation;Idaho County Light and Power Cooperative and BPA;<Point><coordinates>-116.1029157531907,45.93184209978719</coordinates></Point>
+498;CSGP;Coyote Springs;Substation;Portland General Electric Company;<Point><coordinates>-119.673810565690928,45.847160628445273</coordinates></Point>
+500;SPCK;Spring Creek;Substation;Bonneville Power Administration;<Point><coordinates>-120.384309453646111,45.980058204986413</coordinates></Point>
+501;TUCR;Tucannon River;Substation;Bonneville Power Administration;<Point><coordinates>-117.705191799286752,46.353698400249613</coordinates></Point>
+514;BROD;Broadmoor;Substation;Big Bend Electric Cooperative;<Point><coordinates>-119.194237456304819,46.285939360668046</coordinates></Point>
+515;WINE;Wine Country;Substation;Bonneville Power Administration;<Point><coordinates>-119.950673138117523,46.294006551483804</coordinates></Point>
+34;BRIG;Bridge;Substation;Bonneville Power Administration;<Point><coordinates>-113.356726764941072,42.129854224676237</coordinates></Point>
+38;BURL;Burley;Substation;City of Burley;<Point><coordinates>-113.783614196581809,42.548069325763358</coordinates></Point>
+49;CHLS;Challis;Substation;Salmon River Cooperative;<Point><coordinates>-114.207798814827598,44.481075731163557</coordinates></Point>
+65;CURL;Curlew;Substation;Bonneville Power Administration;<Point><coordinates>-112.944327589751296,41.966030242380569</coordinates></Point>
+77;EHIL;East Hills;Substation;South Side Electric Lines;<Point><coordinates>-113.627681971777889,42.481240192532887</coordinates></Point>
+117;HEBN;Heyburn;Substation;Bonneville Power Administration;<Point><coordinates>-113.749174371643988,42.561330155443535</coordinates></Point>
+144;MACK;Mackay;Substation;Lost River Electric Cooperative and BPA;<Point><coordinates>-113.607399584935337,43.919541443014374</coordinates></Point>
+145;MADI;Madison;Substation;Bonneville Power Administration;<Point><coordinates>-111.139169337647544,44.672108158133597</coordinates></Point>
+147;MKIN;Macks Inn;Substation;Fall River Rural Electric Cooperative and BPA;<Point><coordinates>-111.312824645105181,44.492251613599258</coordinates></Point>
+158;MICO;Minico;Substation;United Electic Cooperative;<Point><coordinates>-113.751656718176321,42.604471963703105</coordinates></Point>
+178;PAPH;Palisades;Powerhouse;US Bureau of Reclamation;<Point><coordinates>-111.203211176730562,43.335423709948749</coordinates></Point>
+193;RAFT;Raft;Substation;Bonneville Power Administration;<Point><coordinates>-113.222767782412774,42.590235055613348</coordinates></Point>
+241;SWVY;Swan Valley;Substation;Bonneville Power Administration;<Point><coordinates>-111.368524150199491,43.455659473987843</coordinates></Point>
+246;TARG;Targhee;Substation;Fall River Rural Electric Cooperative and BPA;<Point><coordinates>-111.116320932152618,43.722509962286587</coordinates></Point>
+249;TETN;Teton;Substation;Bonneville Power Administration;<Point><coordinates>-110.836415370727551,43.537684148128477</coordinates></Point>
+260;UNTY;Unity;Substation;United Electric Cooperative and BPA;<Point><coordinates>-113.743870296618923,42.482005960310723</coordinates></Point>
+274;WESD;Westside;Substation;Bonneville Power Administration;<Point><coordinates>-112.09948373694958,43.468823626616896</coordinates></Point>
+297;CNAL;Canal;Substation;Bonneville Power Administration;<Point><coordinates>-113.585623020342481,42.540976775534773</coordinates></Point>
+315;LAGD;La Grande;Substation;Bonneville Power Administration;<Point><coordinates>-118.071881447215929,45.311857203882042</coordinates></Point>
+347;DRUM;Drummond;Substation;Fall River Rural Electric Cooperative and BPA;<Point><coordinates>-111.339448701129285,43.990698644634662</coordinates></Point>
+372;HAYM;Hay Mill;Substation;United Electric Company and City of Rupert;<Point><coordinates>-113.687436009316343,42.606539865337027</coordinates></Point>
+382;LRIV;Lost River;Substation;Bonneville Power Administration;<Point><coordinates>-113.336367006020055,43.782852208298607</coordinates></Point>
+386;MTHO;Mountain Home;Substation;Bonneville Power Administration;<Point><coordinates>-115.62490443027707,43.175089820036284</coordinates></Point>
+391;WBRL;West Burley;Substation;United Electic Cooperative and City of Burley;<Point><coordinates>-113.812970642531752,42.534236912038935</coordinates></Point>
+402;ROEC;Roe's Corner;Substation;United Electric Company and City of Rupert;<Point><coordinates>-113.627855381130871,42.647589149816234</coordinates></Point>
+403;RVLY;Round Valley;Substation;Bonneville Power Administration;<Point><coordinates>-114.133183364575956,44.444964611750869</coordinates></Point>
+419;ARPH;Anderson Ranch;Powerhouse;US Bureau of Reclamation;<Point><coordinates>-115.451564924349569,43.356791568864089</coordinates></Point>
+421;BLPH;Black Canyon;Powerhouse;US Bureau of Reclamation;<Point><coordinates>-116.437903518781781,43.930840821270266</coordinates></Point>
+429;GOSH;Goshen;Substation;Pacific Power and Light Company (PacifiCorp) and BPA;<Point><coordinates>-112.121247031074162,43.309292708824252</coordinates></Point>
+436;SPCN;Spar Canyon;Substation;Salmon River Cooperative and BPA;<Point><coordinates>-114.028589821155037,44.295194960198899</coordinates></Point>
+446;VICT;Victor;Substation;Fall River Rural Electric Cooperative;<Point><coordinates>-111.121685394726185,43.608386473837072</coordinates></Point>
+461;MINI;Minidoka;Substation;Bonneville Power Administration;<Point><coordinates>-113.49208474909139,42.752469894470671</coordinates></Point>
+462;MIPH;Minidoka;Powerhouse;US Bureau of Reclamation;<Point><coordinates>-113.482130443794404,42.670152621982837</coordinates></Point>
+466;DIXI;Dixie;Substation;Bonneville Power Administration;<Point><coordinates>-115.452171230849643,43.357225172143153</coordinates></Point>
+495;IDAH;Idahome;Substation;Bonneville Power Administration;<Point><coordinates>-113.401644514440562,42.415857489592781</coordinates></Point>
+511;SVTN;Targee Tap Switching Station;Switching Station;Bonneville Power Administration;<Point><coordinates>-111.123389239381652,43.566553476886376</coordinates></Point>
+512;FILF;First Lift;Substation;Burley Irrigation District;<Point><coordinates>-113.616695454425781,42.539310985450683</coordinates></Point>
+513;NEWC;Newcomb;Substation;South Side Electric Lines;<Point><coordinates>-113.55862964757047,42.576032708226819</coordinates></Point>
+517;RTON;Riverton;Substation;City of Heyburn;<Point><coordinates>-113.760183374721166,42.553445077683868</coordinates></Point>

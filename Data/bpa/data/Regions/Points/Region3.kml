@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://www.opengis.net/kml/2.2"> 
+  <Document> 
+<Placemark> 
+  <name>Larson</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.276097583307646,47.190922648261555</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Pelican Horn</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.278931169820126,47.113312397234459</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Potholes</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.529620519741997,47.10508543803077</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Quincy</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.874298896292999,47.23370382666662</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Sand Dunes</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.278119174071861,47.073086614293111</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Schultz</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.510217278635807,47.121383428865613</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Vantage</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.939834937369952,46.877638145247943</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Wanapum</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.940474056030496,46.879102771800625</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Ellensburg</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.563793535783049,46.998728510118248</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>East Ellensburg</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.522320531630726,46.999876887074628</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Brewster</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.7878949286508,48.104229760175521</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Chief Joseph</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.651596855071531,47.986251064708341</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Columbia</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.077408505541754,47.294058046391491</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Creston</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.505780079775732,47.770998975057431</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Douglas</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.289669328812451,47.530417640716628</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Eastmont</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.26295861258302,47.420774544670678</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>East Omak</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.500923915556058,48.429537681850682</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Ellisford</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.428866580598111,48.828946209871219</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Grand Coulee 500 kV</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.020373958647937,47.9663603784701</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Grand Coulee Third</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.996999182580296,47.954531470040465</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Keller</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.679190395875906,48.069105224713439</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>North Ephrata</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.533104632029378,47.325581212660445</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Odessa</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.688150340347576,47.338363524277376</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Okanogan</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.570622678780424,48.365157339725599</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Omak</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.514873053583344,48.432166168289562</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Ophir</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.716788018474375,48.192826197740644</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Orondo</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.207819417817305,47.653108484340969</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Oroville</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.44128179471204,48.935624375145998</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Republic</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.685001864403546,48.649980443449195</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Rocky Reach</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.29068261387097,47.529740694514672</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Sickler</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.280380514152696,47.536847547106213</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Soap Lake</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.469660416096374,47.383068184957033</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Tonasket</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.445828641950229,48.696972264786027</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Valhalla</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.127980873192882,47.353259978343999</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Wagner Lake</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.742278915010033,47.642056075838241</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Winthrop</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-120.191802469325253,48.483683617758246</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Grand Coulee 230 kV</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.999416609885998,47.955528872418817</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Rocky Ford</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.449718852091905,47.259675202636465</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Wells</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.865008469022996,47.947055441075257</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Coulee City</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.277060133894622,47.612914869540312</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Goose Lake</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.321880108252046,48.149914632102437</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Gaffney</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.140052870223656,47.332331333982182</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Larene</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.16254483190211,47.733189085625952</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Nespelem</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.975171311846211,48.128802010760751</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Chief Joseph</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.641380990904679,47.995233677687267</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Foster Creek</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.653732501210214,47.991140174965622</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Nilles Corner</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-119.407889505678241,48.004271163706782</coordinates></Point> 
+</Placemark> 
+<Placemark> 
+  <name>Lone Pine</name> 
+  <styleUrl></styleUrl> 
+  <Point><coordinates>-118.962014689157243,47.97786444781655</coordinates></Point> 
+</Placemark> 
+   </Document> 
+</kml> 

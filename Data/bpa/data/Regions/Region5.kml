@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Region5.kml</name>
+	<Style id="sn_donut">
+		<IconStyle>
+			<color>ffff1e13</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<PolyStyle>
+			<color>80e0e108</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_donut">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_donut</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_donut</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_donut">
+		<IconStyle>
+			<color>ffff1e13</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<PolyStyle>
+			<color>80e0e108</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Region 5</name>
+		<styleUrl>#msn_donut</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-125.1576602017344,41.99418138805316,0 -124.7713463063729,41.78547249818135,0 -123.8857636275948,41.68492910773853,0 -122.7737498134501,41.16799022096241,0 -121.5721748015607,40.96700265441033,0 -120.4247997595075,40.99536697759166,0 -119.536605274023,41.07577017821394,0 -117.8221495383218,41.27927447114291,0 -116.6174415673005,41.64584460175808,0 -117.3875487689986,42.69161156428054,0 -118.3387607815356,43.85507407889043,0 -118.7219765383033,44.1793997159925,0 -119.2723186182325,44.88242426732528,0 -119.5892721459238,45.51240869048181,0 -119.7413619009831,45.67983396622344,0 -119.9302593762046,45.81694588161381,0 -120.2275053686528,45.86320033045666,0 -120.7274869539435,45.88560564193332,0 -121.0395668995566,45.85792852700733,0 -121.31271113117,45.73693956932247,0 -121.5662622214249,45.81986363237734,0 -121.7474752195432,45.85830837341364,0 -121.9109061474851,45.81633104028025,0 -122.2646565199238,45.75782108179587,0 -122.5412406180797,45.779450877675,0 -122.7565150399213,45.85903009043105,0 -123.0162760586553,45.95471949084663,0 -123.1032880257767,46.04142521820877,0 -123.1292055594118,46.14535970886408,0 -123.3154195780645,46.22254259073507,0 -123.9892223430781,46.25793867159243,0 -125.1576602017344,41.99418138805316,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
