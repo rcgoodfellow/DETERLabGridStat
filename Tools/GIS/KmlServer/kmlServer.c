@@ -5,6 +5,11 @@
 #include<string.h>
 #include<unistd.h>
 #include<stdlib.h>
+#include<sys/wait.h>
+#include<pthread.h>
+
+#define KML_SOCKET 80
+#define STATUS_SOCKET 4747
 
 #define WHITE "\e[2;37m"
 #define GREEN "\e[2;32m"
@@ -18,7 +23,7 @@
 #define KML_TAIL    "</kml>\r\n"
 
 int acquireSocket(int *soc);
-int bindToSocket(int soc);
+int bindToSocket(int soc, int port);
 int shutdownSocket(int soc);
 int listenToSocket(int soc);
 int acceptOnSocket(int soc);
@@ -26,29 +31,132 @@ int sendReply(int soc);
 int closeSocket(int soc);
 int createKml(char** kml);
 int placeMark(float lat, float lon, char** pm);
+int kmlify(char *str, int *pts);
+
+int serveKml();
+int acceptStatusUpdate();
+int sendStatusReply(int soc);
+int acceptStatusUp(int soc);
+
+int kmlsoc=1;
+char _kml[180000];
+int  _pts[512];
 
 int main()
 {
-    int soc, result=0;
+    int result=0;
+  
+    int r = 0;
+    for(int i=0; i<521; i++) {
+        r = random() % 100;
+        if(r > 60) r = 60;
+        _pts[i] = 0;
+    }
 
-    if( (result = acquireSocket(&soc)) )    goto end;
-    if( (result = bindToSocket(soc)) )      goto end_clean;
-    if( (result = listenToSocket(soc)) )    goto end_clean;
-    
+   pthread_t kml_thread, status_thread; 
+    pid_t ppid = getpid();
+
+//    pid_t kml_pid = fork(); 
+   pthread_create(&kml_thread, NULL, (void*) &serveKml, NULL);
+   pthread_create(&status_thread, NULL, (void*) &acceptStatusUpdate, NULL);
+  /* 
+    if(kml_pid==0)
+    {
+        #ifdef DEBUG
+        printf(WHITE "KML proc engage\n" NEUTRAL);
+        #endif
+
+        serveKml();
+    }
+    else
+    {
+        #ifdef DEBUG
+        printf(WHITE "Serving KML pid=%d\n" NEUTRAL, kml_pid);
+        #endif
+
+
+        pid_t status_pid = fork();
+        if(status_pid==0)
+        {
+            #ifdef DEBUG
+            printf(WHITE "STATUS proc engage\n" NEUTRAL);
+            #endif
+
+            acceptStatusUpdate();
+        }
+        else
+        {
+            #ifdef DEBUG
+            printf(WHITE "Accepting status updates on pid=%d\n" NEUTRAL, status_pid);
+            #endif
+            int status_sl;
+            waitpid(status_pid, &status_sl, 0);
+
+            #ifdef DEBUG
+            printf(WHITE "STATUS proc exit status=%d\n" NEUTRAL, status_sl);
+            #endif
+
+        
+
+            int kml_sl;
+            waitpid(kml_pid, &kml_sl, 0);
+        
+            #ifdef DEBUG
+            printf(WHITE "KML proc exit status=%d\n" NEUTRAL, kml_sl);
+            #endif
+        
+        
+            printf("Press any key to exit");
+            getc(stdin);
+
+            return result;
+        }
+    }*/
+
+   pthread_join(kml_thread, NULL);
+   pthread_join(status_thread, NULL);
+
+   return result;
+
+}
+
+int serveKml() {
+   
+    int result = 0, soc = 0;
+
+    if( (result = acquireSocket(&soc)) )            goto kml_end;
+    if( (result = bindToSocket(soc,KML_SOCKET)) )   goto kml_end_clean;
+    if( (result = listenToSocket(soc)) )            goto kml_end_clean;
+  
+  kmlsoc=0;  
     while(!result) {
         result = acceptOnSocket(soc);
     }
-    goto end_clean;
 
-    printf("Press any key to exit");
-    getc(stdin);
+kml_end_clean:
+    shutdownSocket(soc);
 
-end_clean:
-   
-   shutdownSocket(soc); 
+kml_end:
+    return result;
+}
 
-end:
+int acceptStatusUpdate() {
+    int result=0, soc = 0;
 
+    //sleep(5);
+
+    if( (result = acquireSocket(&soc)) )            goto status_end;
+    if( (result = bindToSocket(soc,STATUS_SOCKET)) )   goto status_end_clean;
+    if( (result = listenToSocket(soc)) )            goto status_end_clean;
+    
+    while(!result) {
+        result = acceptStatusUp(soc);
+    }
+
+status_end_clean:
+    shutdownSocket(soc);
+
+status_end:
     return result;
 }
 
@@ -83,21 +191,21 @@ int acquireSocket(int *soc)
   * bindToSocket 
   *
   ***************************************************/
-int bindToSocket(int soc)
+int bindToSocket(int soc, int port)
 {
     int result=0;
     struct sockaddr_in srvAddr;
 
 #ifdef DEBUG
-    printf(WHITE "bind socket %d to port 80\r\n" NEUTRAL, soc);
+    printf(WHITE "bind socket %d to port %d\r\n" NEUTRAL, soc, port);
 #endif
 
     //bind to socket
     srvAddr.sin_family = AF_INET;
-    srvAddr.sin_port = htons(80);
+    srvAddr.sin_port = htons(port);
     srvAddr.sin_addr.s_addr = INADDR_ANY;
     if( bind(soc,(const struct sockaddr*)&srvAddr, sizeof(srvAddr)) ) {
-        perror(RED "could not bind to socket 80" NEUTRAL);
+        perror(RED "could not bind to socket" NEUTRAL);
         result = -1;
     }
 #ifdef DEBUG
@@ -214,6 +322,39 @@ int acceptOnSocket(int soc)
 
 }
 
+int acceptStatusUp(int soc)
+{
+    int result=0, cliSock=0;
+
+#ifdef DEBUG
+    printf(WHITE "accepting status updates on socket %d\r\n" NEUTRAL, soc);
+#endif
+
+    if ((cliSock = accept(soc, NULL, NULL)) == 0) {
+        perror(RED "failed to accept status update" NEUTRAL);
+        result = -1;
+    }
+
+    else
+    {
+        char rb[10];
+        bzero(rb, 10);
+
+        read(cliSock, rb, 1);
+        read(cliSock, rb+1, 1);
+        read(cliSock, rb+2, 1); 
+            
+         
+#ifdef DEBUG
+        puts(rb);
+        fflush(stdout);
+        printf(GREEN "OK\r\n" NEUTRAL);
+#endif
+        sendStatusReply(cliSock);
+    }
+    
+    return result;
+}
 
 /*****************************************************
   *
@@ -252,7 +393,7 @@ int sendReply(int soc)
 
 #ifdef DEBUG
     printf(WHITE "sending reply on socket %d\r\n" NEUTRAL, soc);
-    printf("%s", msg);
+//    printf("%s", msg);
 #endif
 
     if( send(soc, msg, sizeof(char) * strlen(msg), MSG_EOF) == -1 ) {
@@ -265,10 +406,38 @@ int sendReply(int soc)
 #endif
     
     free(msg);
-    free(payload);
+    //free(payload);
     shutdownSocket(soc);
     return result;
 }
+
+int sendStatusReply(int soc)
+{
+   int result=0;
+
+#ifdef DEBUG
+    printf(WHITE "sending reply on socket %d\r\n" NEUTRAL, soc);
+#endif
+
+    char* msg = malloc(sizeof(char) * 3);
+    msg[0] = 'O';
+    msg[1] = 'K';
+    msg[2] = '\n';
+
+    if( send(soc, msg, sizeof(char) * strlen(msg), MSG_EOF) == -1 ) {
+        perror(RED "failed to send reply to request" NEUTRAL);
+        result = -1;
+    }
+#ifdef DEBUG
+    else
+        printf(GREEN "OK\r\n" NEUTRAL);
+
+    free(msg);
+    shutdownSocket(soc);
+    return result;
+#endif
+}
+
 
 int createKml(char** kml)
 {
@@ -277,7 +446,7 @@ int createKml(char** kml)
     printf(WHITE "creating KML data \r\n" NEUTRAL);
 #endif
     
-    char* pm=NULL;
+/*    char* pm=NULL;
     placeMark(46.7369, -117.1809, &pm);
     
     *kml = malloc( strlen(KML_HEAD) + strlen(pm) + strlen(KML_TAIL) );
@@ -286,7 +455,11 @@ int createKml(char** kml)
     strcat(*kml, KML_TAIL);
 
     free(pm);
+*/
+    
 
+    kmlify(_kml, _pts);
+    *kml = _kml;
     return result;
 }
 

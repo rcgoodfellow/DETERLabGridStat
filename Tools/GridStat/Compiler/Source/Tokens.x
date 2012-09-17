@@ -34,7 +34,7 @@ tokens :-
 	eof								{ mkL TEof }
 	@keyword						{ mkL TKeyword }
 	$digit+							{ mkL TNumber }
-	$alpha [$alpha $digit \_]*		{ mkL TLabel }
+	$alpha [$alpha $digit \_ \-]*		{ mkL TLabel }
 
 	
 {

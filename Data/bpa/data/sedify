@@ -1,0 +1,1 @@
+sed -e 's/<styleUrl><\/styleUrl>/<Style><IconStyle><color>ff339900<\/color><scale>0.5<\/scale><Icon><href>http:\/\/maps.google.com\/mapfiles\/kml\/shapes\/donut.png<\/href><\/Icon><\/IconStyle><LabelStyle><scale>0.1<\/scale><\/LabelStyle><\/Style>/g' subkml.kml > subkml_nice.kml 

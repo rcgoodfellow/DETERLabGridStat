@@ -1,0 +1,44 @@
+Broker {	
+
+	Name = bpa;
+	NameServer { Port = 10000; Name = bpans; }
+	
+	DataPlane {
+		
+		ForwardingEngines = [ fe-1, fe-2, fe-3, fe-4, fe-5 ];
+		
+		Links = [   (fe-1, fe-2), (fe-1, fe-3), (fe-1, fe-5),
+                (fe-4, fe-2), (fe-4, fe-3), (fe-4, fe-5),
+                (fe-2, fe-3), (fe-5, fe-3)  ];
+	}
+	
+	Publisher {	
+		Name = PubA; 
+		Edge = fe-1;
+		PubVar { Name = VarA1; Rate = 60; }
+		PubVar { Name = VarA2; Rate = 30; }
+	}
+	
+	Publisher {
+		Name = PubB;
+		Edge = fe-2;
+		PubVar { Name = VarB1; Rate = 30; }
+		PubVar { Name = VarB2; Rate = 15; }
+	}
+	
+	Subscriber {
+		Name = SubA;
+		Edge = fe-3;
+		SubVar { PubName = PubA; Name = VarA1; Rate = 30; Redundancy = 2; Latency = 120; }
+		SubVar { PubName = PubB; Name = VarB2; Rate = 15;  Redundancy = 1; Latency = 80; }
+	}
+	
+	Subscriber {
+		Name = SubB;
+		Edge = fe-4;
+		SubVar { PubName = PubA; Name = VarA2; Rate = 15; Redundancy = 1; Latency = 80; }
+		SubVar { PubName = PubB; Name = VarB1; Rate = 30; Redundancy = 2; Latency = 100; }
+	
+	}
+
+}

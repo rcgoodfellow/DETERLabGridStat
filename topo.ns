@@ -1,0 +1,20 @@
+#BPA DETERLab Topology
+
+set ns [new Simulator]
+source tb_compat.tcl
+
+set N_SUB 1
+set N_PUB 5
+set N_FE 5
+
+set sub(1) [$ns node]
+
+for {set i 1} {$i <= $N_PUB} {incr i} {
+    set pub($i) [$ns node]
+}
+
+for {set i 1} {$i <= $N_FE} {incr i} {
+    set fe($i) [$ns node]
+}
+
+set fe1-fe2 [

@@ -1,0 +1,50 @@
+#BPA DETERLab Topology
+
+set ns [new Simulator]
+source tb_compat.tcl
+
+set N_SUB 1
+set N_PUB_FE 5
+
+set nodes [list]
+
+for {set i 1} {$i <= $N_PUB_FE} {incr i} {
+        set pub($i) [$ns node]
+        lappend nodes $pub($i)        
+        set fe($i) [$ns node]
+        lappend nodes $fe($i)
+}
+
+set bpans [$ns node]
+lappend nodes $bpans
+set sub(1) [$ns node]
+lappend nodes $sub(1)
+
+set cNodes {2 3 5}
+foreach i $cNodes {
+        set fe(1)-fe($i) [$ns duplex-link $fe(1) $fe($i) 100Mb 5ms DropTail]
+        set fe(4)-fe($i) [$ns duplex-link $fe(4) $fe($i) 100Mb 5ms DropTail]
+}    
+
+for {set i 1} {$i <= $N_PUB_FE} {incr i} {
+    set pub($i)-fe($i) [$ns duplex-link $pub($i) $fe($i) 100Mb 5ms DropTail]
+}
+
+set sub(1)-fe(1) [$ns duplex-link $sub(1) $fe(1) 100Mb 5ms DropTail]
+set bpans-fe(5) [$ns duplex-link $bpans $fe(5) 100Mb 5ms DropTail]
+
+set fe(2)-fe(3) [$ns duplex-link $fe(2) $fe(3) 100Mb 5ms DropTail]
+set fe(3)-fe(5) [$ns duplex-link $fe(3) $fe(5) 100Mb 5ms DropTail]
+
+
+
+
+    foreach i $nodes {    
+            tb-set-node-os $i Ubuntu1004-STD
+                    tb-set-node-startcmd $i "sudo /proj/GridStat/installjava.sh"
+    }
+
+$ns rtproto Static
+
+$ns run
+

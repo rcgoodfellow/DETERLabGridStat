@@ -3,3 +3,6 @@
 *.xml
 
 .DS_Store
+ckml
+ckml.dSYM
+*.swp
