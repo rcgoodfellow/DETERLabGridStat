@@ -4,6 +4,7 @@ set ns [new Simulator]
 source tb_compat.tcl
 
 set N_SUB 1
+<<<<<<< HEAD
 set N_PUB 5
 set N_FE 5
 
@@ -18,3 +19,35 @@ for {set i 1} {$i <= $N_FE} {incr i} {
 }
 
 set fe1-fe2 [
+=======
+set N_PUB_FE 5
+
+set nodes [list]
+
+for {set i 1} {$i <= $N_PUB_FE} {incr i} {
+    set pub($i) [$ns node]
+    lappend nodes $pub($i)        
+    set fe($i) [$ns node]
+    lappend nodes $fe($i)
+}
+
+set cNodes {2 3 5}
+foreach i $cNodes {
+    set fe(1)-fe($i) [$ns duplex-link $fe(1) $fe($i) 100Mb 5ms DropTail]
+    set fe(4)-fe($i) [$ns duplex-link $fe(4) $fe($i) 100Mb 5ms DropTail]
+}    
+
+set bpans [$ns node]
+lappend nodes $bpans
+set sub(1) [$ns node]
+lappend nodes $sub(1)
+
+foreach i $nodes {    
+    tb-set-node-os $i Ubuntu1004-STD
+    tb-set-node-startcmd $i "sudo /proj/GridStat/installjava.sh"
+}
+
+$ns rtproto static
+
+$ns run
+>>>>>>> bd4c708424eef23d1b5b0ae2a67cd6772ff22a8f

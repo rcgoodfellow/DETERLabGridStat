@@ -3,6 +3,10 @@
 *.xml
 
 .DS_Store
+<<<<<<< HEAD
 ckml
 ckml.dSYM
 *.swp
+=======
+ks
+>>>>>>> bd4c708424eef23d1b5b0ae2a67cd6772ff22a8f
