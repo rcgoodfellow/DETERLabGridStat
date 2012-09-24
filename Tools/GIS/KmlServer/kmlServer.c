@@ -8,7 +8,7 @@
 #include<sys/wait.h>
 #include<pthread.h>
 
-#define KML_SOCKET 80
+#define KML_SOCKET 7474 
 #define STATUS_SOCKET 4747
 
 #define WHITE "\e[2;37m"
@@ -343,7 +343,9 @@ int acceptStatusUp(int soc)
         read(cliSock, rb, 1);
         read(cliSock, rb+1, 1);
         read(cliSock, rb+2, 1); 
-            
+        
+    int pt = atoi(rb);
+    _pts[pt] = 67;    
          
 #ifdef DEBUG
         puts(rb);

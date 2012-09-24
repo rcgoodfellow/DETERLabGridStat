@@ -13,9 +13,9 @@
       <refreshVisibility>0</refreshVisibility>
       <flyToView>0</flyToView>
       <Link>
-        <href>http://localhost</href>
+        <href>http://localhost:7474</href>
         <refreshMode>onInterval</refreshMode>
-        <refreshInterval>1</refreshInterval>
+        <refreshInterval>3</refreshInterval>
       </Link>
     </NetworkLink>
   </Folder>

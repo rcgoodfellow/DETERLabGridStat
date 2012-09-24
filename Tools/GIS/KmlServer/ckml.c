@@ -15,13 +15,13 @@ int kmlify(char* str, int* pts) {
 
 //    char str[180000];
 //    int pts[521];
-    srandom(time(NULL));
+ //   srandom(time(NULL));
     int r = 0;
-    for(int i=0; i<521; i++) {
-        r = random() % 100;
-        if(r > 60) r = 60; 
-        pts[i] = r;
-    }
+//    for(int i=0; i<521; i++) {
+//        r = random() % 100;
+//        if(r > 60) r = 60; 
+ //       pts[i] = r;
+   // }
 
     bzero(str, 180000);
 
