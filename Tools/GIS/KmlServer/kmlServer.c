@@ -42,6 +42,11 @@ int kmlsoc=1;
 char _kml[180000];
 int  _pts[512];
 
+/*****************************************************
+  *
+  * main 
+  *
+  ***************************************************/
 int main()
 {
     int result=0;
@@ -54,65 +59,10 @@ int main()
     }
 
    pthread_t kml_thread, status_thread; 
-    pid_t ppid = getpid();
+   pid_t ppid = getpid();
 
-//    pid_t kml_pid = fork(); 
    pthread_create(&kml_thread, NULL, (void*) &serveKml, NULL);
    pthread_create(&status_thread, NULL, (void*) &acceptStatusUpdate, NULL);
-  /* 
-    if(kml_pid==0)
-    {
-        #ifdef DEBUG
-        printf(WHITE "KML proc engage\n" NEUTRAL);
-        #endif
-
-        serveKml();
-    }
-    else
-    {
-        #ifdef DEBUG
-        printf(WHITE "Serving KML pid=%d\n" NEUTRAL, kml_pid);
-        #endif
-
-
-        pid_t status_pid = fork();
-        if(status_pid==0)
-        {
-            #ifdef DEBUG
-            printf(WHITE "STATUS proc engage\n" NEUTRAL);
-            #endif
-
-            acceptStatusUpdate();
-        }
-        else
-        {
-            #ifdef DEBUG
-            printf(WHITE "Accepting status updates on pid=%d\n" NEUTRAL, status_pid);
-            #endif
-            int status_sl;
-            waitpid(status_pid, &status_sl, 0);
-
-            #ifdef DEBUG
-            printf(WHITE "STATUS proc exit status=%d\n" NEUTRAL, status_sl);
-            #endif
-
-        
-
-            int kml_sl;
-            waitpid(kml_pid, &kml_sl, 0);
-        
-            #ifdef DEBUG
-            printf(WHITE "KML proc exit status=%d\n" NEUTRAL, kml_sl);
-            #endif
-        
-        
-            printf("Press any key to exit");
-            getc(stdin);
-
-            return result;
-        }
-    }*/
-
    pthread_join(kml_thread, NULL);
    pthread_join(status_thread, NULL);
 
@@ -120,6 +70,11 @@ int main()
 
 }
 
+/*****************************************************
+  *
+  * serveKml 
+  *
+  ***************************************************/
 int serveKml() {
    
     int result = 0, soc = 0;
@@ -322,6 +277,12 @@ int acceptOnSocket(int soc)
 
 }
 
+
+/*****************************************************
+  *
+  * acceptStatusUp 
+  *
+  ***************************************************/
 int acceptStatusUp(int soc)
 {
     int result=0, cliSock=0;
@@ -413,6 +374,12 @@ int sendReply(int soc)
     return result;
 }
 
+
+/*****************************************************
+  *
+  * sendStatuReply 
+  *
+  ***************************************************/
 int sendStatusReply(int soc)
 {
    int result=0;
@@ -441,6 +408,11 @@ int sendStatusReply(int soc)
 }
 
 
+/*****************************************************
+  *
+  * createKml 
+  *
+  ***************************************************/
 int createKml(char** kml)
 {
     int result=0;
@@ -448,46 +420,8 @@ int createKml(char** kml)
     printf(WHITE "creating KML data \r\n" NEUTRAL);
 #endif
     
-/*    char* pm=NULL;
-    placeMark(46.7369, -117.1809, &pm);
-    
-    *kml = malloc( strlen(KML_HEAD) + strlen(pm) + strlen(KML_TAIL) );
-    strcpy(*kml, KML_HEAD);
-    strcat(*kml, pm);
-    strcat(*kml, KML_TAIL);
-
-    free(pm);
-*/
-    
-
     kmlify(_kml, _pts);
     *kml = _kml;
     return result;
 }
-
-int placeMark(float lat, float lon, char** pm)
-{
-    char* data =    
-        "<Placemark>\n"   
-            "<Style>\n"
-                "<IconStyle>\n"
-                    "<color>ff339900</color>\n"
-                    "<scale>0.5</scale>\n"
-                    "<Icon>\n"
-                        "<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>\n"
-                    "</Icon>\n"
-                "</IconStyle>\n"
-            "</Style>\n" 
-            "<name>Squanto</name>\n"
-            "<Point>\n"
-                "<coordinates>-117.181111, 46.737158</coordinates>\n"
-            "</Point>\n"
-         "</Placemark>\n";
-
-    *pm = malloc(strlen(data));
-    strcpy(*pm, data);
-
-    return 0;
-}
-
 
