@@ -3,10 +3,13 @@
 #include<stdio.h>
 #include<netinet/in.h>
 #include<string.h>
+#include<strings.h>
 #include<unistd.h>
 #include<stdlib.h>
 #include<sys/wait.h>
 #include<pthread.h>
+
+#include <linux/socket.h>
 
 #define KML_SOCKET 7474 
 #define STATUS_SOCKET 4747
@@ -21,6 +24,8 @@
 #define KML_HEAD    "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"\
                     "<kml xmlns=\"http://www.opengis.net/kml/2.2\">\n"
 #define KML_TAIL    "</kml>\r\n"
+
+#define MSG_EOF MSG_FIN
 
 int acquireSocket(int *soc);
 int bindToSocket(int soc, int port);
@@ -53,13 +58,13 @@ int main()
   
     int r = 0;
     for(int i=0; i<521; i++) {
-        r = random() % 100;
+        r = rand() % 100;
         if(r > 60) r = 60;
         _pts[i] = 0;
     }
 
    pthread_t kml_thread, status_thread; 
-   pid_t ppid = getpid();
+   //pid_t ppid = getpid();
 
    pthread_create(&kml_thread, NULL, (void*) &serveKml, NULL);
    pthread_create(&status_thread, NULL, (void*) &acceptStatusUpdate, NULL);

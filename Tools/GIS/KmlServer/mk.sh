@@ -1,2 +1,2 @@
-clang -c ckml.c -o ckml.o
-clang -Wall -Wextra kmlServer.c ckml.o -lpthread -o ks -DDEBUG
+cc -c ckml.c -o ckml.o
+cc -Wall -Wextra -std=c99 kmlServer.c ckml.o -lpthread -o ks -DDEBUG
