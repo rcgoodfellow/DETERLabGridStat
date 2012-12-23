@@ -4,7 +4,7 @@ import Tokens
 import GSST.AST
 import GSST.CodeGen
 
--- parser produced by Happy Version 1.18.9
+-- parser produced by Happy Version 1.18.10
 
 data HappyAbsSyn t4 t5 t6 t7 t8 t9 t10 t11 t12 t13 t14 t15 t16 t17 t18 t19 t20 t21 t22 t23 t24
 	= HappyTerminal (Lexeme)
@@ -779,8 +779,8 @@ parseError :: [Lexeme] -> a
 parseError [] = error "Incomplete Input"
 parseError (tk:tks) = error $ (redText "Parse error") ++ " at: " ++ (showLex tk)
 
-data ParseResult a = ParseOk a
-					| ParseFail String
+data ParseResult a = ParseOk a 
+									 | ParseFail String
 
 type P a = String -> Int -> ParseResult a
 
@@ -831,7 +831,6 @@ main = getContents >>=                         		                -- IO String
   )
 {-# LINE 1 "templates/GenericTemplate.hs" #-}
 {-# LINE 1 "templates/GenericTemplate.hs" #-}
-{-# LINE 1 "<built-in>" #-}
 {-# LINE 1 "<command-line>" #-}
 {-# LINE 1 "templates/GenericTemplate.hs" #-}
 -- Id: GenericTemplate.hs,v 1.26 2005/01/14 14:47:22 simonmar Exp 

@@ -11,7 +11,7 @@ import GSST.CodeGen
 
 %token
 	';'								{ (L _ TSemi _) }
-	'['								{  (L _ TOList _) }
+	'['								{ (L _ TOList _) }
 	']'								{ (L _ TCList _) }
 	'{'								{ (L _ TOElem _) }
 	'}'								{ (L _ TCElem _) }
@@ -22,73 +22,128 @@ import GSST.CodeGen
 	label							{ (L _ TLabel $$) }
 	num								{ (L _ TNumber $$) }
 	name							{ (L _ TKeyword "Name") }
-	broker							{ (L _ TKeyword "Broker") }
+	broker						{ (L _ TKeyword "Broker") }
 	port							{ (L _ TKeyword "Port") }
-	dataPlane						{ (L _ TKeyword "DataPlane") }
-	forwardingEngines				{ (L _ TKeyword "ForwardingEngines") }
+	dataPlane					{ (L _ TKeyword "DataPlane") }
+	forwardingEngines	{ (L _ TKeyword "ForwardingEngines") }
 	links							{ (L _ TKeyword "Links") }
-	publisher						{ (L _ TKeyword "Publisher") }
+	publisher					{ (L _ TKeyword "Publisher") }
 	edge							{ (L _ TKeyword "Edge") }
-	pubVar							{ (L _ TKeyword "PubVar") }
+	pubVar						{ (L _ TKeyword "PubVar") }
 	rate							{ (L _ TKeyword "Rate") }
-	subscriber						{ (L _ TKeyword "Subscriber") }
-	subVar							{ (L _ TKeyword "SubVar") }
-	pubName							{ (L _ TKeyword "PubName") }
-	redundancy						{ (L _ TKeyword "Redundancy") }
-	latency							{ (L _ TKeyword "Latency") }
-	nameServer						{ (L _ TKeyword "NameServer") }
+	subscriber				{ (L _ TKeyword "Subscriber") }
+	subVar						{ (L _ TKeyword "SubVar") }
+	pubName						{ (L _ TKeyword "PubName") }
+	redundancy				{ (L _ TKeyword "Redundancy") }
+	latency						{ (L _ TKeyword "Latency") }
+	nameServer				{ (L _ TKeyword "NameServer") }
 	
 %%
 
-Go : broker '{' BrokerName NameServer DataPlane Pubs Subs '}'				{codeGen (Broker $3 $4 $5 $6 $7)}
+Go : 
+  broker '{' BrokerName NameServer DataPlane Pubs Subs '}'
+	{codeGen (Broker $3 $4 $5 $6 $7)}
 
-BrokerName : name '=' label ';'								 				{$3}
+BrokerName : 
+  name '=' label ';'
+	{$3}
 
-NameServer : nameServer '{' port '=' num ';' name '=' label ';' '}'			{NameServer (read $5) $9}
+NameServer : 
+  nameServer '{' port '=' num ';' name '=' label ';' '}'			
+	{NameServer (read $5) $9}
 
-DataPlane : dataPlane '{' ForwardingEngines ';' Links ';' '}'				{DataPlane $3 $5}
+DataPlane : 
+  dataPlane '{' ForwardingEngines ';' Links ';' '}'
+	{DataPlane $3 $5}
 
-ForwardingEngines : forwardingEngines '=' '[' FeList ']'					{$4}
+ForwardingEngines : 
+  forwardingEngines '=' '[' FeList ']'					
+	{$4}
 
-FeList : label ',' FeList													{(ForwardingEngine $1):$3}
-	   | label																{[(ForwardingEngine $1)]}
+FeList : 
+  label ',' FeList													
+	{(ForwardingEngine $1):$3}
+	
+  | label																
+	{[(ForwardingEngine $1)]}
 
-Links : links '=' '[' LnList ']'											{$4}
+Links : 
+  links '=' '[' LnList ']'
+	{$4}
 
-LnList : '(' label ',' label ')' ',' LnList									{(Link $2 $4):$7}
-	   | '(' label ',' label ')'											{[(Link $2 $4)]}
+LnList : 
+  '(' label ',' label ')' ',' LnList
+	{(Link $2 $4):$7}
+	
+  | '(' label ',' label ')'
+	{[(Link $2 $4)]}
 
-Pubs : Pub Pubs																{$1:$2}
-	 | Pub																	{[$1]}
+Pubs : 
+  Pub Pubs
+	{$1:$2}
+	 
+  | Pub
+	{[$1]}
 
-Subs : Sub Subs																{$1:$2}
-	 | Sub																	{[$1]}
+Subs : 
+  Sub Subs
+	{$1:$2}
+	 
+  | Sub
+	{[$1]}
 
-Pub : publisher '{' name '=' label ';' edge '=' label ';' PubVarList '}' {Publisher $5 $9 $11}
+Pub : 
+  publisher '{' name '=' label ';' edge '=' label ';' PubVarList '}' 
+	{Publisher $5 $9 $11}
 
-PubVarList : PubVar PubVarList												{$1:$2}
-	       | PubVar															{[$1]}
+PubVarList : 
+  PubVar PubVarList
+  {$1:$2}
+  
+  | PubVar
+	{[$1]}
 
-PubVar : pubVar '{' name '=' label ';' rate '=' num ';' '}'					{PubVar $5 (read $9)}
+PubVar : 
+  pubVar '{' name '=' label ';' rate '=' num ';' '}'
+	{PubVar $5 (read $9)}
 
-Sub : subscriber '{' name '=' label ';' edge '=' label ';' SubVarList '}' {Subscriber $5 $9 $11}
+Sub : 
+  subscriber '{' name '=' label ';' edge '=' label ';' SubVarList '}' 
+	{Subscriber $5 $9 $11}
 
-SubVarList : SubVar SubVarList												{$1:$2}
-		   | SubVar															{[$1]}
+SubVarList : 
+  SubVar SubVarList
+	{$1:$2}
+
+  | SubVar
+	{[$1]}
 		
-SubVar : subVar '{' PubName SubName Rate Redundancy Latency '}'				{SubVar $3 $4 $5 $6 $7}
+SubVar : 
+  subVar '{' PubName SubName Rate Redundancy Latency '}'
+	{SubVar $3 $4 $5 $6 $7}
 
-PubName : pubName '=' label ';'												{$3}
-SubName : name '=' label ';'												{$3}
-Rate : rate '=' num ';'														{read $3}
-Redundancy : redundancy '=' num ';'											{read $3}
-Latency : latency '=' num ';'												{read $3}
+PubName : 
+  pubName '=' label ';'
+	{$3}
 
+SubName : 
+  name '=' label ';'
+	{$3}
+
+Rate : 
+  rate '=' num ';'
+	{read $3}
+
+Redundancy : 
+  redundancy '=' num ';'
+	{read $3}
+
+Latency : 
+  latency '=' num ';'
+	{read $3}
 
 
 {
-
-
 
 showLex :: Lexeme -> String
 showLex (L pos t str) = {-(show t) ++ ":" ++-} str ++ " " ++ (showPosn pos)
@@ -100,8 +155,8 @@ parseError :: [Lexeme] -> a
 parseError [] = error "Incomplete Input"
 parseError (tk:tks) = error $ (redText "Parse error") ++ " at: " ++ (showLex tk)
 
-data ParseResult a = ParseOk a
-					| ParseFail String
+data ParseResult a = ParseOk a 
+									 | ParseFail String
 
 type P a = String -> Int -> ParseResult a
 
